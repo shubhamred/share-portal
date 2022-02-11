@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Grid, TextField } from '@material-ui/core';
+import { Grid, TextField, Typography } from '@material-ui/core';
 import MomentUtils from '@material-ui/pickers/adapter/moment';
 import moment from 'moment';
 import { DatePicker, LocalizationProvider } from '@material-ui/pickers';
@@ -50,6 +50,49 @@ const CustomDatePicker = (props) => {
           {error}
         </Grid>
       )}
+
+
+
+      <Grid>
+        <Typography>
+          git changes 
+        </Typography>
+      </Grid>
+      <Grid>
+        <Typography>
+          git changes 
+        </Typography>
+      </Grid>
+      <Grid>
+        <Typography>
+          git changes 
+        </Typography>
+      </Grid>
+      <Grid>
+        <Typography>
+          git changes 
+        </Typography>
+      </Grid>
+      <Grid>
+        <Typography>
+          git changes 
+        </Typography>
+      </Grid>
+      <Grid>
+        <Typography>
+          git changes 
+        </Typography>
+      </Grid>
+      <Grid>
+        <Typography>
+          git changes 
+        </Typography>
+      </Grid>
+      <Grid>
+        <Typography>
+          git changes 
+        </Typography>
+      </Grid>
     </Grid>
   );
 };
