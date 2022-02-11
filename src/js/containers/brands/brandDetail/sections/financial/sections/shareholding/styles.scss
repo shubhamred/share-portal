@@ -1,0 +1,41 @@
+
+
+
+@import 'app/theme/variables.scss';
+
+.headerStyle {
+  justify-content: flex-start;
+  margin: 23px !important;
+  margin-left: 40px !important;
+  font-weight: $titleFontWeight;
+  font-size: 25px;
+  color: $titleColor !important;
+  font-family: $titleFontFamily;
+}
+
+.form {
+  width: inherit;
+}
+
+.formLabelStyle {
+  flex-wrap: nowrap;
+  // margin: 20px 0 !important;
+  margin-bottom: 60px !important;
+
+  @media only screen and (max-width: 1127px) {
+      max-width: 50% !important;
+  }
+  @media only screen and (max-width: 600px) {
+    max-width: 100% !important;
+  }
+}
+.fieldRowContainer {
+  flex-wrap: nowrap;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hideFile{
+  display: none;
+}

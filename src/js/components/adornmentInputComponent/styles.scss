@@ -1,0 +1,70 @@
+@import 'src/js/theme/variables';
+
+@mixin deafult {
+  height:30px;
+  width: 100%;
+  // padding: 3px 0;
+  font-size: 16px;
+  border: none !important;
+  outline: none;
+  font-family: $fontFamily;
+  background-color: white;
+}
+
+.inputWrapper {
+  background-color: white;
+  display: flex;
+  // padding-top: 4px;
+  border-radius: 4px;
+  display: flex;
+}
+
+.input {
+  @include deafult;
+  border-bottom: 1px solid #acacac !important;
+  color: black;
+
+}
+
+::placeholder {
+  // color: #b1aaaa;
+  color: #707070;
+}
+
+.warning {
+  color: red;
+  text-align: left;
+  margin: 10px 0 !important;
+}
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  font-family: $fontFamily;
+  display: flex;
+  font-size: 14px;
+  line-height: 17px;
+  color: #164363;
+}
+
+.container {
+  align-items: baseline;
+  display: flex;
+  flex-grow: 1;
+  width: 90% !important;
+  // margin-bottom: 60px !important;
+}
+
+.buttons{
+  display: flex;
+  word-break: initial;
+  padding: 0 2%;
+}
+
+.disabled {
+  @include deafult;
+  border-bottom: 1px solid #acacac !important;
+ color: #acacac;
+}

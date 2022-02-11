@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/switch Renders default options 1`] = `
+<WithStyles(ForwardRef(Switch))
+  checked={false}
+  classes={
+    Object {
+      "checked": "makeStyles-checked-5",
+      "root": "makeStyles-root-1",
+      "switchBase": "makeStyles-switchBase-2",
+      "thumb": "makeStyles-thumb-3",
+      "track": "makeStyles-track-4",
+    }
+  }
+  onChange={[Function]}
+/>
+`;

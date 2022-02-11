@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/button Renders default options 1`] = `
+<button
+  className="btn"
+  disabled={false}
+  onClick={[Function]}
+  style={Object {}}
+  title=""
+  type="button"
+/>
+`;
+
+exports[`components/button Renders disabled options 1`] = `
+<button
+  className="disabled"
+  disabled={true}
+  onClick={[Function]}
+  style={Object {}}
+  title=""
+  type="button"
+/>
+`;

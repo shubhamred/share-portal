@@ -1,0 +1,310 @@
+@import 'src/js/theme/variables';
+
+.typeHeading {
+  font-size: 16px;
+  font-family: $fontFamily;
+  font-weight: 600;
+}
+
+.maxWidth25 {
+  max-width: 25%;
+}
+
+.mb5 {
+  margin-bottom: 20px;
+}
+
+.disableShadow {
+  box-shadow: none !important;
+}
+.disableShadow::before {
+  background-color: #ffffff !important;
+}
+
+.fileContainer {
+  border-radius: 5px;
+  border: 1px solid #e5e5e5;
+  font-family: $fontFamily;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.fileName {
+  font-size: 12px;
+  flex: 1;
+  margin: 0 0 0 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fileImage {
+  width: 25px;
+  height: 25px;
+}
+
+.mainHeading {
+  width: 350px;
+}
+
+.subHeading {
+  margin-left: 60px;
+  color: #212529b3;
+}
+
+.statusBtn {
+  box-sizing: border-box;
+  border-radius: 4px;
+  margin-left: auto;
+  padding: 10px 10px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.generated {
+  background: rgba(105, 121, 248, 0.1);
+  border: 1px solid #6979f8;
+  color: #6979f8;
+}
+
+.linkCreated {
+  background: rgba(255, 190, 48, 0.1);
+  border: 1px solid #ffaf00;
+  color: #ffaf00;
+}
+
+.signed {
+  background: rgba(39, 175, 96, 0.1);
+  border: 1px solid #219653;
+  color: #219653;
+}
+
+.rejected {
+  background: #af4d271a;
+  border: 1px solid #f23939;
+  color: #f23939;
+}
+
+.addInfo {
+  color: #1518af;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  margin: 10px 0px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.seperator {
+  border: 0.1px solid #c2c9d161;
+  margin: 20px 0px;
+  width: 100%;
+}
+
+.previewLink {
+  color: #1518af;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.linkV2 {
+  color: #1518af;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.doneText {
+  color: #10bc5a !important;
+  margin-right: 12px;
+}
+
+.pendingText {
+  color: #ffaf00 !important;
+  margin-right: 12px;
+}
+
+.tableWrapper {
+  margin: 20px 0px !important;
+}
+
+.getSignLinks {
+  margin-right: 30px;
+}
+
+.generatedDoc {
+  margin-right: 30px;
+  display: block;
+}
+
+.eSignLinkTable {
+  display: flex;
+  align-items: center;
+
+  .fileIcon {
+    margin-right: 14px;
+    height: 24px;
+  }
+
+  .downloadIcon {
+    margin-left: 14px;
+  }
+}
+
+.tags {
+  padding: 2px 7px;
+  font-size: 12px;
+  border-radius: 3px;
+  margin-left: 12px;
+}
+
+.patronTag {
+  background: #ffaf00;
+  color: #fff;
+}
+
+.trusteeTag {
+  background: #27af60;
+  color: #fff;
+}
+
+.tableContainer {
+  tbody {
+    tr td {
+      padding: 8px 16px;
+    }
+  }
+}
+
+.documentData {
+  .fileContainer {
+    border: none;
+  }
+}
+
+.linkText {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 85%;
+  display: block;
+}
+
+.pt6{
+  padding-top: 6px;
+}
+
+.fs7{
+  font-size: 7px !important;
+}
+
+.linkWrapper {
+  display: flex;
+  width: 300px;
+  a {
+    color: #1518af !important;
+  }
+  &:hover {
+    img {
+      transition: 0.3s;
+      display: block;
+    }
+  }
+  img {
+    margin-left: 15px;
+    display: none;
+  }
+}
+
+.personName {
+  // display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.tableTitle {
+  font-weight: 600;
+  color: #212529;
+  font-size: 16px;
+}
+
+.tableSeperator {
+  margin-top: 20px;
+  display: flex;
+  width: 100%;
+}
+
+.statusBarContainer {
+  background: #d7753e14;
+  border-radius: 2px;
+  padding: 6px 18px;
+  margin-bottom: 34px !important;
+  height: 60px;
+}
+
+.success {
+  background: rgba(39, 175, 96, 0.06) !important;
+}
+
+.statusBarButtonContainer {
+  text-align: end;
+  div {
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    line-height: 19px !important;
+    color: #1518af !important;
+    cursor: pointer !important;
+  }
+}
+
+.statusBarPercentage {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19px;
+  color: #ffaf00;
+  padding: 0px 12px;
+}
+
+.successPercentage {
+  color: #27AF60 !important;
+}
+
+.statusBarText {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: $blackColor;
+}
+
+.errorTitle {
+  margin: 10px 0px !important;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 1px;
+}
+
+.errorDesc {
+  margin-left: 10px !important;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  color: #212529cc;
+}
+
+.messageContainer{
+  margin-bottom: 18px !important;
+  .message{
+    margin: 20px 0px !important;
+  }
+}

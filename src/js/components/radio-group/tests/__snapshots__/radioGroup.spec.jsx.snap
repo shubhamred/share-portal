@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/RadioGroup Renders default options 1`] = `
+<div>
+  <WithStyles(ForwardRef(FormControl))
+    component="fieldset"
+    disabled={false}
+  >
+    <WithStyles(ForwardRef(FormLabel))
+      className="label"
+    />
+    <ForwardRef(RadioGroup)
+      className="radioGroup"
+      onChange={[Function]}
+    >
+      <WithStyles(ForwardRef(FormControlLabel))
+        className="input"
+        control={<ForwardRef(WithStyles(Component)) />}
+        key="option-ABC"
+        label="ABC"
+        value="ABC"
+      />
+      <WithStyles(ForwardRef(FormControlLabel))
+        className="input"
+        control={<ForwardRef(WithStyles(Component)) />}
+        key="option-123"
+        label="123"
+        value="123"
+      />
+    </ForwardRef(RadioGroup)>
+  </WithStyles(ForwardRef(FormControl))>
+</div>
+`;
+
+exports[`components/RadioGroup Renders disables options 1`] = `
+<div>
+  <WithStyles(ForwardRef(FormControl))
+    component="fieldset"
+    disabled={true}
+  >
+    <WithStyles(ForwardRef(FormLabel))
+      className="label"
+    />
+    <ForwardRef(RadioGroup)
+      className="radioGroup"
+      onChange={[Function]}
+    >
+      <WithStyles(ForwardRef(FormControlLabel))
+        className="input"
+        control={<ForwardRef(WithStyles(Component)) />}
+        key="option-ABC"
+        label="ABC"
+        value="ABC"
+      />
+      <WithStyles(ForwardRef(FormControlLabel))
+        className="input"
+        control={<ForwardRef(WithStyles(Component)) />}
+        key="option-123"
+        label="123"
+        value="123"
+      />
+    </ForwardRef(RadioGroup)>
+  </WithStyles(ForwardRef(FormControl))>
+</div>
+`;
+
+exports[`components/RadioGroup Renders with options 1`] = `
+<div>
+  <WithStyles(ForwardRef(FormControl))
+    component="fieldset"
+    disabled={false}
+  >
+    <WithStyles(ForwardRef(FormLabel))
+      className="label"
+    >
+      Label
+      <HideButton
+        isSection={false}
+        onHideBtnClick={[Function]}
+        visible={false}
+      />
+    </WithStyles(ForwardRef(FormLabel))>
+    <ForwardRef(RadioGroup)
+      className="radioGroup"
+      onChange={[Function]}
+      value="ABC"
+    >
+      <WithStyles(ForwardRef(FormControlLabel))
+        className="input"
+        control={<ForwardRef(WithStyles(Component)) />}
+        key="option-ABC"
+        label="ABC"
+        value="ABC"
+      />
+      <WithStyles(ForwardRef(FormControlLabel))
+        className="input"
+        control={<ForwardRef(WithStyles(Component)) />}
+        key="option-123"
+        label="123"
+        value="123"
+      />
+    </ForwardRef(RadioGroup)>
+  </WithStyles(ForwardRef(FormControl))>
+</div>
+`;

@@ -1,0 +1,23 @@
+@import "app/theme/variables.scss";
+
+.warning {
+  color: red
+}
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #164363;
+}
+.container {
+  align-items: baseline;
+  display: flex;
+  font-family: $fontFamily;
+}
+.formLabelRoot {
+  margin-right: 5% !important;
+}

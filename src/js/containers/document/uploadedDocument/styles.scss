@@ -1,0 +1,20 @@
+@import 'app/theme/variables.scss';
+
+.fileName {
+  font-family: $fontFamily !important;
+  font-size: $textFontSize !important;
+  line-height: $textLineHeight !important;
+  font-weight: bold !important;
+  color: $textColor !important;
+  align-items: center !important;
+}
+.cancelButtonStyle {
+  margin: 5px !important;
+}
+
+.deleteButtonStyle {
+  margin: 5px !important;
+}
+.dialogButtonContainer {
+  padding-top: 15px
+}

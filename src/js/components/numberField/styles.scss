@@ -1,0 +1,72 @@
+@import "src/js/theme/variables";
+
+@mixin defaultInput {
+  height: 30px;
+  width: 100%;
+  // padding: 2px 0;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  font-family: $fontFamily;
+  background-color: white;
+}
+
+.inputWrapper {
+  background-color: white;
+  display: flex;
+  // padding: 4px 0;
+  border-radius: 4px;
+}
+.input {
+  @include defaultInput;
+  border-bottom: 1px solid #acacac;
+  color: $inputColor;
+}
+
+::placeholder {
+  // color: #b1aaaa;
+  color: #707070;
+
+}
+.warning {
+  color: red;
+  text-align: left;
+  font-size: 14px;
+  margin: 10px 0 !important;
+}
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  font-family: $fontFamily;
+  display: flex;
+  font-size: 14px;
+  line-height: 17px;
+  color: $labelColor;
+}
+
+.requiredStar {
+  color: red;
+  margin-left: 3px;
+}
+
+
+.container {
+  align-items: baseline;
+  display: flex;
+  flex-grow: 1;
+  width: 90% !important;
+  // margin-bottom: 60px !important;
+}
+.buttons {
+  display: flex;
+  word-break: initial;
+  padding: 0 2%;
+}
+
+.disabled {
+  @include defaultInput;
+  border-bottom: 1px solid #acacac !important;
+  color: #acacac !important;
+}

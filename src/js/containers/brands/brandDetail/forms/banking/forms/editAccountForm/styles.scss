@@ -1,0 +1,25 @@
+.editForm {
+  width: 100%;
+}
+
+.fieldGroup {
+  margin: 40px 0 0;
+}
+
+.saveMessage {
+  font-size: 20px;
+  // font-family: rubik;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.messageIcon {
+  display: flex;
+  align-items: center;
+  margin-left: 18px;
+}
+
+.addressField {
+  margin-top: 16px;
+}

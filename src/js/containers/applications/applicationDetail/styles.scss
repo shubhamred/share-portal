@@ -1,0 +1,89 @@
+.titleHeading {
+  color: #557186;
+  font-size: .9rem;
+}
+
+.titleSubHeading {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.43;
+  color: #000000;
+}
+
+a.titleSubHeading {
+  text-decoration: none;
+}
+
+.contentWrapper {
+  // padding: 0px 16px !important;
+  overflow-y: hidden;
+}
+
+.headerWraper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.mainDetailsWrapper {
+  // padding: 16px !important;
+  background-color: white !important;
+  height: fit-content;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+}
+
+.formContainer {
+  width: 100% !important;
+  background-color: white !important;
+}
+
+.mb30 {
+  margin-bottom: 30px !important;
+}
+
+.mb15 {
+  margin-bottom: 15px !important;
+}
+
+.w100 {
+  width: 100%;
+  .MuiSelect-select {
+    width: 100%;
+  }
+}
+
+.list {
+  display: flex;
+}
+.btns{
+  background-color: #5064E2 !important;
+  color: #fff !important;
+  align-items: center !important;
+  padding: 10px 20px !important;
+}
+
+.btnDisabled{
+  opacity: 0.6;
+  cursor: not-allowed !important;
+}
+
+.textTruncate {
+  margin: 0px;
+  width: 110px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.createDealBtn{
+  height: fit-content;
+  border:1px solid #1518af !important;
+  color: #1518af !important;
+  padding: 10px 20px !important;
+  margin-right: 10px !important;
+}

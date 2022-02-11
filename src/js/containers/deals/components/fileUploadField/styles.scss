@@ -1,0 +1,43 @@
+@import "app/theme/variables.scss";
+
+.container {
+  padding: 3% !important;
+  margin-bottom: 1.5% !important;
+  @media only screen and (max-width: 700px) {
+    width: 100% !important;
+  }
+}
+.category {
+  font-family: $titleFontFamily;
+  font-weight: $titleFontWeight;
+  font-size: $titleFontSize;
+  line-height: $titleLineHeight;
+  color: $titleColor;
+}
+.documentLabel {
+  font-family: $fontFamily;
+  font-size: $textFontSize;
+  line-height: $textLineHeight;
+  color: $textColor;
+  align-items: center;
+  display: flex;
+}
+.statusText {
+  font-family: $fontFamily;
+  font-size: $textFontSize;
+  line-height: $textLineHeight;
+  color: #000000;
+  align-items: center;
+}
+.multipleDoc {
+  margin-bottom: 2% !important;
+}
+.uploadButton {
+  padding: 1% 0;
+  align-items: center;
+}
+.uploadMessage {
+  font-size: 14px;
+  align-items: center;
+  display: flex;
+}

@@ -1,0 +1,21 @@
+@import "app/theme/variables.scss";
+
+.navBarIcons {
+  width: 22px;
+  height: 22px;
+}
+.tab {
+  background-color: #ffffff !important;
+  font-family: $fontFamily;
+  padding: 20px 23px !important;
+  border: 2px solid #F9F9FD !important;
+
+}
+
+.selectedTab {
+  background-color: #4754D6 !important;
+  font-family: $fontFamily;
+  padding: 20px 23px !important;
+  // border: 1px solid white !important;
+
+}

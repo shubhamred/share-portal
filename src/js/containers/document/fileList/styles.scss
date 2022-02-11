@@ -1,0 +1,35 @@
+@import 'app/theme/variables.scss';
+.wrapper {
+  // padding: 0.25% 0.5% 0.25% 3.5% !important;
+  background-color: white;
+  align-items: center;
+  font-family: $fontFamily;
+  font-size: $textFontSize;
+  line-height: $textLineHeight;
+  color: $textColor;
+  // width: 94% !important;
+  justify-content: space-between;
+  display: flex !important
+}
+.dropDownWrapper {
+  background-color: white;
+  // padding: 0 3.5%;
+  margin-top: 0.5%;
+  // width: 94% !important;
+}
+.fileContainer {
+  font-family: $fontFamily;
+  font-size: $textFontSize;
+  line-height: $textLineHeight;
+  font-weight: bold;
+  color: $textColor;
+  align-items: center;
+}
+.cancelButtonStyle {
+  margin: 5px !important;
+}
+
+.deleteButtonStyle {
+  margin: 5px !important;
+}
+

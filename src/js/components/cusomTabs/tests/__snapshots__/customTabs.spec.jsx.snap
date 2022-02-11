@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<WithStyles(ForwardRef(Grid))
+  item={true}
+  xs={12}
+>
+  <WithStyles(ForwardRef(Grid))
+    className="tabContainer"
+    container={true}
+    direction="row"
+  >
+    <WithStyles(ForwardRef(Grid))
+      item={true}
+      key="tab1"
+    >
+      <Button
+        disabled={false}
+        key="tab1"
+        label="tab1"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#4754D6",
+            "border": "1px solid  #fff",
+            "borderRadius": 21,
+            "color": "#fff",
+            "marginRight": "16px",
+            "minWidth": "100px",
+          }
+        }
+        title=""
+        type="button"
+      />
+    </WithStyles(ForwardRef(Grid))>
+    <WithStyles(ForwardRef(Grid))
+      item={true}
+      key="tab2"
+    >
+      <Button
+        disabled={false}
+        key="tab2"
+        label="tab2"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "border": "1px solid  #4754D6",
+            "borderRadius": 21,
+            "color": "#4754D6",
+            "marginRight": "16px",
+            "minWidth": "100px",
+          }
+        }
+        title=""
+        type="button"
+      />
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;
+
+exports[`components/Custom Tabs Renders default options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  item={true}
+  xs={12}
+>
+  <WithStyles(ForwardRef(Grid))
+    className="tabContainer"
+    container={true}
+    direction="row"
+  />
+</WithStyles(ForwardRef(Grid))>
+`;

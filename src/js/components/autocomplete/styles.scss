@@ -1,0 +1,46 @@
+@import "src/js/theme/variables";
+
+.wrapper {
+  display: flex;
+  //background-color: white;
+  flex-grow: 1;
+  padding: 0;
+  width: 90% !important;
+  align-items: baseline;
+  font-family: $fontFamily;
+  // margin-top: 7px;
+  height: 45px;
+}
+
+.standard {
+  > div {
+    input {
+      height: 18px;
+    }
+  }
+}
+
+.inputBorder {
+  //border-bottom: 1px solid #acacac;
+}
+.inputHeight {
+  input{
+    height: 8px;
+  }
+}
+.label {
+  text-align: left;
+  word-break: break-all;
+  font-weight: 400 !important;
+  font-size: 20px !important;
+  line-height: 17px !important;
+  color: #164363 !important;
+  font-family: $fontFamily;
+}
+
+.warning {
+  color: #ff0000;
+  text-align: left;
+  font-size: 14px;
+  margin: 10px 0 !important;
+}

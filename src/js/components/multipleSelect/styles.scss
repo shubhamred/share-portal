@@ -1,0 +1,40 @@
+@import 'src/js/theme/variables';
+
+.label {
+    text-align: left;
+    word-break: break-all;
+    padding: 4px 0;
+    font-weight: 400;
+    font-family: $fontFamily;
+    display: flex;
+    font-size: 14px;
+    line-height: 17px;
+    color: $labelColor;
+}
+
+.requiredStar {
+    color: red;
+    margin-left: 3px;
+}
+
+.formControl {
+    width: 100%;
+}
+
+.indeterminateColor {
+    color: '#1518af'
+}
+
+.selectedAll {
+    background-color: 'rgba(0, 0, 0, 0.08)'
+}
+
+.selectAllText {
+    font-weight: 500;
+}
+
+.warning {
+    color: red;
+    text-align: left;
+    margin: 10px 0 !important;
+}

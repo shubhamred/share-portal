@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Add Button Renders default options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  onClick={[Function]}
+  props={
+    Object {
+      "label": "Add",
+      "onClick": [Function],
+    }
+  }
+  style={
+    Object {
+      "alignItems": "center",
+      "cursor": "pointer",
+      "display": "flex",
+      "flexDirection": "row",
+    }
+  }
+>
+  <Memo(ForwardRef(AddCircleIcon))
+    style={
+      Object {
+        "fill": "#5064E2",
+      }
+    }
+  />
+  <WithStyles(ForwardRef(Grid))
+    style={
+      Object {
+        "color": "#164363",
+        "padding": "4px",
+      }
+    }
+  >
+    Add
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;

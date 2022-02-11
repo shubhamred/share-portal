@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/AdornmentInput Renders default options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  className="container"
+  container={true}
+  direction="row"
+  item={true}
+  justify="space-between"
+>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    sm={12}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Grid))
+      className="inputWrapper"
+      item={true}
+      sm={12}
+      xs={12}
+    >
+      <WithStyles(ForwardRef(Input))
+        className="input"
+        disableUnderline={true}
+        disabled={false}
+        endAdornment={
+          <ForwardRef(WithStyles(ForwardRef(InputAdornment)))
+            position="end"
+          >
+            %
+          </ForwardRef(WithStyles(ForwardRef(InputAdornment)))>
+        }
+        inputProps={
+          Object {
+            "max": "100",
+            "min": "0",
+            "step": ".1",
+          }
+        }
+        onChange={[Function]}
+        placeholder=""
+        type="number"
+        value=""
+      />
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;

@@ -1,0 +1,135 @@
+@import 'src/js/theme/variables';
+
+.wrapper {
+  display: flex;
+  background-color: white;
+  flex-grow: 1;
+  padding: 0px;
+  width: 90% !important;
+  align-items: baseline;
+  font-family: $fontFamily;
+  // margin-bottom: 60px !important;
+}
+.iconStyle {
+  position: absolute;
+  bottom: 10px;
+  left: 88%
+}
+
+.disabled {
+  border-bottom: 1px solid #acacac !important;
+  color: #acacac !important;
+  width: 100%;
+}
+
+.formControlRoot {
+  border-bottom: 1px solid #acacac !important;
+  width: 100%;
+}
+
+.formControlRoot :before {
+  content: none;
+}
+
+.title {
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  color: #000 !important;
+  padding: 10px !important;
+}
+.root {
+  display: flex;
+  margin: auto;
+  padding: 0 0 20px;
+  background-color: #ffffff
+}
+
+.dropdownStyle {
+  top: 150px !important;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px 0 rgba(70, 89, 138, 0.1)
+
+}
+
+.divider {
+  margin: 0 15px
+}
+
+.MenuItem {
+  font-size: 0.85rem;
+  &:focus {
+    background-color: #f2f9ff
+  }
+}
+
+.requiredStar {
+  color: red;
+  margin-left: 3px;
+}
+
+.MenuDivider {
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.placeholder{
+  color: #b1aaaa !important;
+}
+
+.MenuSelected {
+  background-color: #f2f9ff !important
+}
+
+.inputOther {
+  margin-top: 23px !important;
+}
+
+.textRoot {
+  padding: 10px;
+  width: 100%;
+}
+
+.warning {
+  color: red;
+  text-align: left;
+  margin: 10px 0 !important;
+}
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  font-family: $fontFamily;
+  display: flex;
+  font-size: 14px;
+  line-height: 17px;
+  color: $labelColor;
+}
+
+.component {
+  // padding: 3px 0;
+}
+
+.buttons{
+  display: flex;
+  word-break: initial;
+  padding: 0 2%;
+}
+
+.MuiInputBase-input{
+  color: #b1aaaa !important;
+  border: none;
+}
+.disabled {
+  border-bottom: 0px solid #acacac;
+  color: #acacac;
+}
+
+.inputRoot {
+  border-bottom: 0px solid #acacac;
+  color: #acacac;
+}

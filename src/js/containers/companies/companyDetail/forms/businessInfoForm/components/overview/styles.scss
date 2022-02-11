@@ -1,0 +1,60 @@
+@import 'src/js/theme/variables';
+
+.headerStyle {
+  justify-content: flex-start;
+  margin: 23px !important;
+  margin-left: 40px !important;
+  font-weight: $titleFontWeight;
+  font-size: 25px;
+  color: $titleColor !important;
+  font-family: $titleFontFamily;
+}
+
+.form {
+  width: inherit;
+}
+
+.formLabelStyle {
+  flex-wrap: nowrap;
+  // max-width: 32% !important;
+  // margin: 20px 0 !important;
+  margin-bottom: 35px !important;
+
+  @media only screen and (max-width: 1127px) {
+    max-width: 50% !important;
+  }
+  @media only screen and (max-width: 600px) {
+    max-width: 100% !important;
+  }
+}
+
+.fieldRowContainer {
+  flex-wrap: nowrap;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+
+.fieldRowContainer2 {
+  flex-wrap: nowrap;
+  flex-direction: row;
+  display: flex;
+}
+
+.saveMessage {
+  font-size: 20px;
+  // font-family: rubik;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.messageIcon {
+  display: flex;
+  align-items: center;
+  margin-left: 18px;
+}
+.error {
+ color: #DC143C;
+ margin-left: 10px;
+}

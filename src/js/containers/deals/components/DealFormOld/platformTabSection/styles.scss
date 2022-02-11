@@ -1,0 +1,29 @@
+.tabContainer {
+  border: 1px solid #E3E3E3;
+  border-radius: 10px;
+}
+
+.listItemPadding {
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+}
+.sectionVisiblity {
+  //border: 1px solid #3B3B3B;
+  border-radius: 4px;
+  width: fit-content;
+  padding: 1px 7px;
+  background: #6FCF97;
+}
+.sectionHidden {
+  border-radius: 4px;
+  width: fit-content;
+  padding: 1px 7px;
+  background: #E0E0E0;
+}
+.sectionName {
+  font-weight: bold;
+}
+.sectionUpdateTime {
+  color: #898989;
+  font-size: 0.9rem;
+}

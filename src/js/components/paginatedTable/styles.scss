@@ -1,0 +1,42 @@
+@import "src/js/theme/variables";
+
+.table {
+  width: inherit;
+}
+.wrapper {
+  width: 100%;
+  font-family: $fontFamily !important;
+  color: #164363 !important ;
+  box-shadow: 0px 13px 82px #F4F5F7;
+  border: 1px solid #E9EDF7;
+}
+.tableHead {
+  color: #164363 !important;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  font-family: $fontFamily !important;
+  position: relative;
+}
+.tableRow {
+  cursor: pointer ;
+}
+.statusClearStyle {
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 100%;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  height: 24px;
+  margin: auto;
+}
+.dateClearStyle {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.noDataText {
+  text-align: center;
+}

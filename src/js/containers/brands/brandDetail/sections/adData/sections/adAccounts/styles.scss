@@ -1,0 +1,6 @@
+.flexWrapper{
+    display:flex;
+    & > div {
+        width:200px;
+    }
+}

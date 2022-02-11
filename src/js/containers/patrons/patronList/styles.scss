@@ -1,0 +1,74 @@
+@import 'app/theme/variables.scss';
+
+.tableStyle {
+  margin: 0 16px !important;
+}
+
+.tableHeading {
+  // text-align: center;
+  font-size: $headerFontSize !important;
+  font-weight: $titleFontWeight;
+  width: 100%;
+  padding-bottom: 1%;
+  color: $titleColor;
+  margin: 16px !important;
+}
+
+.wrapper {
+  width: 100%;
+  // margin: 0 2%;
+  font-family: $fontFamily;
+  background-color: white;
+  // margin-top: 14px;
+  // margin-left: 14px;
+  // padding: 1%;
+}
+
+.filterWrapper {
+  padding: 1% 2.4% 3%;
+}
+
+.filter {
+  font-size: 15px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  color: #647c91;
+}
+
+.errorLabel {
+  font-size: 14px;
+  color: #212529;
+}
+
+.messageLabel {
+  font-size: 14px;
+  color: #212529;
+  font-weight: 600;
+}
+
+.treeViewContainer {
+  padding-bottom: 30px;
+  li {
+    margin-bottom: 8px;
+  }
+
+  .errorHeading {
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    color: #212529;
+    img {
+      margin-right: 12px;
+    }
+  }
+}
+
+.messageBullet {
+  font-size: 6px !important;
+  margin-right: 10px;
+  margin-bottom: 2px;
+}

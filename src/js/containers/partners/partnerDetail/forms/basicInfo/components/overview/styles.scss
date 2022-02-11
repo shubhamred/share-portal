@@ -1,0 +1,28 @@
+@import "app/theme/variables.scss";
+
+.form {
+    width: inherit;
+    margin-top: 20px;
+}
+
+.fieldHeading{
+    padding-bottom: 8px;
+}
+  
+.formLabelStyle {
+    flex-wrap: nowrap;
+    margin-bottom: 40px !important;
+
+    @media only screen and (max-width: 1127px) {
+        max-width: 50% !important;
+    }
+    @media only screen and (max-width: 600px) {
+        max-width: 100% !important;
+    }
+}
+
+.fieldRowContainer {
+    flex-wrap: nowrap;
+    flex-direction: row;
+    display: flex;
+}

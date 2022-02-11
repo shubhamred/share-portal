@@ -1,0 +1,109 @@
+@import 'src/js/theme/variables';
+
+.formLabelStyle {
+  margin: 20px 0 !important;
+}
+.form {
+  margin: 0 auto;
+}
+.inviteForm {
+  padding-top: 20px;
+}
+.headerStyle {
+  font-size: 25px !important;
+  line-height: 24px !important;
+  font-weight: Bold !important;
+  font-family: $fontFamily !important;
+  letter-spacing: 0;
+  color: #000000;
+  opacity: 1;
+}
+
+.buttonStyle {
+  // padding: 7% 0 3%;
+  text-align: center;
+}
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-size: 18px;
+  font-weight: 100;
+  font-family: $fontFamily;
+  display: flex;
+}
+.warning {
+  padding: 9% 0 1%;
+  color: red;
+  font-size: 18px;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.btnContainer {
+  margin-top: 15px;
+}
+
+.btnContainer button {
+  width: 100px;
+}
+
+.fieldLabel {
+  margin-bottom: 10px;
+}
+
+.w100 input[type='tel'] {
+  border: none;
+  padding: 10px;
+  border-bottom: 1px solid rgba(33, 37, 25, 0.6);
+}
+
+.w100.PhoneInput--focus,
+.w100 input[type='tel']:focus {
+  border: none;
+  border-bottom: 1px solid #000;
+}
+
+.fieldMb {
+  margin-bottom: 14px !important;
+}
+
+.btnContainer {
+  margin-top: 15px;
+}
+
+.btnContainer button {
+  width: 100px;
+}
+
+.dFlex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fieldArrayContainer {
+  margin: 0;
+  padding-left: 13px;
+  list-style: none;
+}
+
+.boxContainer {
+  padding: 20px !important;
+  padding-top: 15px !important;
+  padding-left: 15px !important;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.fieldInputContainer {
+  margin: 15px !important;
+}
+
+.m0 {
+  margin: 0;
+}

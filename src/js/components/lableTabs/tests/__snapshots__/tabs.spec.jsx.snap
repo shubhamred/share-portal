@@ -1,0 +1,422 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Tabs Renders default options 1`] = `
+<div
+  className="makeStyles-root-3"
+>
+  <WithStyles(ForwardRef(Tabs))
+    TabIndicatorProps={
+      Object {
+        "style": Object {
+          "backgroundColor": "#1518AF",
+          "color": "#1518AF",
+        },
+      }
+    }
+    indicatorColor="primary"
+    onChange={[Function]}
+    textColor="primary"
+    value={0}
+    variant="standard"
+  />
+</div>
+`;
+
+exports[`components/Tabs Renders with options 1`] = `
+<EnhancedTabs
+  callbackFunction={[Function]}
+  tabList={
+    Array [
+      Object {
+        "label": "TAB1",
+        "value": "Test",
+      },
+      Object {
+        "label": "TAB 2",
+        "value": "Test",
+      },
+    ]
+  }
+  value={0}
+>
+  <div
+    className="makeStyles-root-3"
+  >
+    <WithStyles(ForwardRef(Tabs))
+      TabIndicatorProps={
+        Object {
+          "style": Object {
+            "backgroundColor": "#1518AF",
+            "color": "#1518AF",
+          },
+        }
+      }
+      indicatorColor="primary"
+      onChange={[Function]}
+      textColor="primary"
+      value={0}
+      variant="standard"
+    >
+      <ForwardRef(Tabs)
+        TabIndicatorProps={
+          Object {
+            "style": Object {
+              "backgroundColor": "#1518AF",
+              "color": "#1518AF",
+            },
+          }
+        }
+        classes={
+          Object {
+            "centered": "MuiTabs-centered",
+            "fixed": "MuiTabs-fixed",
+            "flexContainer": "MuiTabs-flexContainer",
+            "flexContainerVertical": "MuiTabs-flexContainerVertical",
+            "indicator": "MuiTabs-indicator",
+            "root": "MuiTabs-root",
+            "scrollButtons": "MuiTabs-scrollButtons",
+            "scrollButtonsDesktop": "MuiTabs-scrollButtonsDesktop",
+            "scrollable": "MuiTabs-scrollable",
+            "scroller": "MuiTabs-scroller",
+            "vertical": "MuiTabs-vertical",
+          }
+        }
+        indicatorColor="primary"
+        onChange={[Function]}
+        textColor="primary"
+        value={0}
+        variant="standard"
+      >
+        <div
+          className="MuiTabs-root"
+        >
+          <div
+            className="MuiTabs-scroller MuiTabs-fixed"
+            onScroll={[Function]}
+            style={
+              Object {
+                "marginBottom": null,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <div
+              className="MuiTabs-flexContainer"
+              onKeyDown={[Function]}
+              role="tablist"
+            >
+              <WithStyles(ForwardRef(Tab))
+                aria-controls="tabpanel-0"
+                className="makeStyles-tabcontainer-4"
+                fullWidth={false}
+                id="tab-0"
+                indicator={false}
+                key=".$TAB1"
+                label="TAB1"
+                onChange={[Function]}
+                selected={true}
+                textColor="primary"
+                value={0}
+              >
+                <ForwardRef(Tab)
+                  aria-controls="tabpanel-0"
+                  className="makeStyles-tabcontainer-4"
+                  classes={
+                    Object {
+                      "disabled": "Mui-disabled",
+                      "fullWidth": "MuiTab-fullWidth",
+                      "labelIcon": "MuiTab-labelIcon",
+                      "root": "MuiTab-root",
+                      "selected": "Mui-selected",
+                      "textColorInherit": "MuiTab-textColorInherit",
+                      "textColorPrimary": "MuiTab-textColorPrimary",
+                      "textColorSecondary": "MuiTab-textColorSecondary",
+                      "wrapped": "MuiTab-wrapped",
+                      "wrapper": "MuiTab-wrapper",
+                    }
+                  }
+                  fullWidth={false}
+                  id="tab-0"
+                  indicator={false}
+                  label="TAB1"
+                  onChange={[Function]}
+                  selected={true}
+                  textColor="primary"
+                  value={0}
+                >
+                  <WithStyles(ForwardRef(ButtonBase))
+                    aria-controls="tabpanel-0"
+                    aria-selected={true}
+                    className="MuiTab-root MuiTab-textColorPrimary makeStyles-tabcontainer-4 Mui-selected"
+                    disabled={false}
+                    focusRipple={true}
+                    id="tab-0"
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    role="tab"
+                    tabIndex={0}
+                  >
+                    <ForwardRef(ButtonBase)
+                      aria-controls="tabpanel-0"
+                      aria-selected={true}
+                      className="MuiTab-root MuiTab-textColorPrimary makeStyles-tabcontainer-4 Mui-selected"
+                      classes={
+                        Object {
+                          "disabled": "Mui-disabled",
+                          "focusVisible": "Mui-focusVisible",
+                          "root": "MuiButtonBase-root",
+                        }
+                      }
+                      disabled={false}
+                      focusRipple={true}
+                      id="tab-0"
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      role="tab"
+                      tabIndex={0}
+                    >
+                      <button
+                        aria-controls="tabpanel-0"
+                        aria-selected={true}
+                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary makeStyles-tabcontainer-4 Mui-selected"
+                        disabled={false}
+                        id="tab-0"
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onDragLeave={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchMove={[Function]}
+                        onTouchStart={[Function]}
+                        role="tab"
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <span
+                          className="MuiTab-wrapper"
+                        >
+                          TAB1
+                        </span>
+                        <WithStyles(memo)
+                          center={false}
+                        >
+                          <ForwardRef(TouchRipple)
+                            center={false}
+                            classes={
+                              Object {
+                                "child": "MuiTouchRipple-child",
+                                "childLeaving": "MuiTouchRipple-childLeaving",
+                                "childPulsate": "MuiTouchRipple-childPulsate",
+                                "ripple": "MuiTouchRipple-ripple",
+                                "ripplePulsate": "MuiTouchRipple-ripplePulsate",
+                                "rippleVisible": "MuiTouchRipple-rippleVisible",
+                                "root": "MuiTouchRipple-root",
+                              }
+                            }
+                          >
+                            <span
+                              className="MuiTouchRipple-root"
+                            >
+                              <TransitionGroup
+                                childFactory={[Function]}
+                                component={null}
+                                exit={true}
+                              />
+                            </span>
+                          </ForwardRef(TouchRipple)>
+                        </WithStyles(memo)>
+                      </button>
+                    </ForwardRef(ButtonBase)>
+                  </WithStyles(ForwardRef(ButtonBase))>
+                </ForwardRef(Tab)>
+              </WithStyles(ForwardRef(Tab))>
+              <WithStyles(ForwardRef(Tab))
+                aria-controls="tabpanel-1"
+                className="makeStyles-tabcontainer-4"
+                fullWidth={false}
+                id="tab-1"
+                indicator={false}
+                key=".$TAB 2"
+                label="TAB 2"
+                onChange={[Function]}
+                selected={false}
+                textColor="primary"
+                value={1}
+              >
+                <ForwardRef(Tab)
+                  aria-controls="tabpanel-1"
+                  className="makeStyles-tabcontainer-4"
+                  classes={
+                    Object {
+                      "disabled": "Mui-disabled",
+                      "fullWidth": "MuiTab-fullWidth",
+                      "labelIcon": "MuiTab-labelIcon",
+                      "root": "MuiTab-root",
+                      "selected": "Mui-selected",
+                      "textColorInherit": "MuiTab-textColorInherit",
+                      "textColorPrimary": "MuiTab-textColorPrimary",
+                      "textColorSecondary": "MuiTab-textColorSecondary",
+                      "wrapped": "MuiTab-wrapped",
+                      "wrapper": "MuiTab-wrapper",
+                    }
+                  }
+                  fullWidth={false}
+                  id="tab-1"
+                  indicator={false}
+                  label="TAB 2"
+                  onChange={[Function]}
+                  selected={false}
+                  textColor="primary"
+                  value={1}
+                >
+                  <WithStyles(ForwardRef(ButtonBase))
+                    aria-controls="tabpanel-1"
+                    aria-selected={false}
+                    className="MuiTab-root MuiTab-textColorPrimary makeStyles-tabcontainer-4"
+                    disabled={false}
+                    focusRipple={true}
+                    id="tab-1"
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    role="tab"
+                    tabIndex={-1}
+                  >
+                    <ForwardRef(ButtonBase)
+                      aria-controls="tabpanel-1"
+                      aria-selected={false}
+                      className="MuiTab-root MuiTab-textColorPrimary makeStyles-tabcontainer-4"
+                      classes={
+                        Object {
+                          "disabled": "Mui-disabled",
+                          "focusVisible": "Mui-focusVisible",
+                          "root": "MuiButtonBase-root",
+                        }
+                      }
+                      disabled={false}
+                      focusRipple={true}
+                      id="tab-1"
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      role="tab"
+                      tabIndex={-1}
+                    >
+                      <button
+                        aria-controls="tabpanel-1"
+                        aria-selected={false}
+                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary makeStyles-tabcontainer-4"
+                        disabled={false}
+                        id="tab-1"
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onDragLeave={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchMove={[Function]}
+                        onTouchStart={[Function]}
+                        role="tab"
+                        tabIndex={-1}
+                        type="button"
+                      >
+                        <span
+                          className="MuiTab-wrapper"
+                        >
+                          TAB 2
+                        </span>
+                        <WithStyles(memo)
+                          center={false}
+                        >
+                          <ForwardRef(TouchRipple)
+                            center={false}
+                            classes={
+                              Object {
+                                "child": "MuiTouchRipple-child",
+                                "childLeaving": "MuiTouchRipple-childLeaving",
+                                "childPulsate": "MuiTouchRipple-childPulsate",
+                                "ripple": "MuiTouchRipple-ripple",
+                                "ripplePulsate": "MuiTouchRipple-ripplePulsate",
+                                "rippleVisible": "MuiTouchRipple-rippleVisible",
+                                "root": "MuiTouchRipple-root",
+                              }
+                            }
+                          >
+                            <span
+                              className="MuiTouchRipple-root"
+                            >
+                              <TransitionGroup
+                                childFactory={[Function]}
+                                component={null}
+                                exit={true}
+                              />
+                            </span>
+                          </ForwardRef(TouchRipple)>
+                        </WithStyles(memo)>
+                      </button>
+                    </ForwardRef(ButtonBase)>
+                  </WithStyles(ForwardRef(ButtonBase))>
+                </ForwardRef(Tab)>
+              </WithStyles(ForwardRef(Tab))>
+            </div>
+            <WithStyles(ForwardRef(TabIndicator))
+              className="MuiTabs-indicator"
+              color="primary"
+              orientation="horizontal"
+              style={
+                Object {
+                  "backgroundColor": "#1518AF",
+                  "color": "#1518AF",
+                  "left": 0,
+                  "width": 0,
+                }
+              }
+            >
+              <ForwardRef(TabIndicator)
+                className="MuiTabs-indicator"
+                classes={
+                  Object {
+                    "colorPrimary": "PrivateTabIndicator-colorPrimary-6",
+                    "colorSecondary": "PrivateTabIndicator-colorSecondary-7",
+                    "root": "PrivateTabIndicator-root-5",
+                    "vertical": "PrivateTabIndicator-vertical-8",
+                  }
+                }
+                color="primary"
+                orientation="horizontal"
+                style={
+                  Object {
+                    "backgroundColor": "#1518AF",
+                    "color": "#1518AF",
+                    "left": 0,
+                    "width": 0,
+                  }
+                }
+              >
+                <span
+                  className="PrivateTabIndicator-root-5 PrivateTabIndicator-colorPrimary-6 MuiTabs-indicator"
+                  style={
+                    Object {
+                      "backgroundColor": "#1518AF",
+                      "color": "#1518AF",
+                      "left": 0,
+                      "width": 0,
+                    }
+                  }
+                />
+              </ForwardRef(TabIndicator)>
+            </WithStyles(ForwardRef(TabIndicator))>
+          </div>
+        </div>
+      </ForwardRef(Tabs)>
+    </WithStyles(ForwardRef(Tabs))>
+  </div>
+</EnhancedTabs>
+`;

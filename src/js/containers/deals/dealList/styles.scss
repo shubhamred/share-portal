@@ -1,0 +1,42 @@
+@import 'src/js/theme/variables';
+.tableStyle {
+  // width: 100%;
+  margin: 0 16px !important;
+}
+.marginContainer {
+  width: auto !important;
+  margin: 0px 24px 30px 24px !important;
+}
+
+.tableHeading {
+  // text-align: center;
+  font-size: $headerFontSize !important;
+  font-weight: $titleFontWeight;
+  width: 100%;
+  padding-bottom: 1%;
+  color: $titleColor;
+  margin: 16px !important;
+}
+.wrapper {
+  width: 100%;
+  // margin: 0 2%;
+  font-family: $fontFamily;
+  background-color: white;
+  // margin-top: 14px;
+  // margin-left: 14px;
+  // padding: 1%;
+}
+
+.filterWrapper {
+  padding: 1% 2.4% 3%;
+  align-items: center;
+}
+.searchBtnContainer {
+  align-self: flex-end;
+  margin-top: 18px !important;
+}
+@media (min-width: 1280px) {
+  .searchBtnContainer {
+    margin-top: 0 !important;
+  }
+}

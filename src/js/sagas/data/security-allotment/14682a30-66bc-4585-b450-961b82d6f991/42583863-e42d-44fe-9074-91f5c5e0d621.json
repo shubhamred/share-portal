@@ -1,0 +1,1802 @@
+[
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 16440000,
+	  "number_of_securities_allotted": 30000,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 538
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 3319613.76,
+	  "number_of_securities_allotted": 7482,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 433.68
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 2274285,
+	  "number_of_securities_allotted": 7085,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-10-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 1854738,
+	  "number_of_securities_allotted": 5778,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-10-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 3412944,
+	  "number_of_securities_allotted": 6228,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 538
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 386700,
+	  "number_of_securities_allotted": 1200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 7231488,
+	  "number_of_securities_allotted": 22528,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 10764414,
+	  "number_of_securities_allotted": 33534,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 386700,
+	  "number_of_securities_allotted": 1200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-07-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 3699525,
+	  "number_of_securities_allotted": 11525,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-07-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 12371340,
+	  "number_of_securities_allotted": 38540,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 40393677,
+	  "number_of_securities_allotted": 125837,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 154680,
+	  "number_of_securities_allotted": 480,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-04-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 49863177,
+	  "number_of_securities_allotted": 155337,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-04-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 2010840,
+	  "number_of_securities_allotted": 6240,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-04-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 77340,
+	  "number_of_securities_allotted": 240,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-04-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 18127833,
+	  "number_of_securities_allotted": 56473,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-03-08",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 70000000000,
+	  "number_of_securities_allotted": 70000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 8927010,
+	  "number_of_securities_allotted": 27810,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 7838178,
+	  "number_of_securities_allotted": 24418,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 64450,
+	  "number_of_securities_allotted": 200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-01-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 12693303,
+	  "number_of_securities_allotted": 39543,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2019-01-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 21920000,
+	  "number_of_securities_allotted": 40000,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 538
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-12-11",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 30000000000,
+	  "number_of_securities_allotted": 30000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-12-11",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 25000000000,
+	  "number_of_securities_allotted": 25000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 190127.5,
+	  "number_of_securities_allotted": 590,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 12086613,
+	  "number_of_securities_allotted": 37653,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-11-09",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 30000000000,
+	  "number_of_securities_allotted": 30000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-10-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 15809250,
+	  "number_of_securities_allotted": 49250,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-10-17",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 35000000000,
+	  "number_of_securities_allotted": 35000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 10919778,
+	  "number_of_securities_allotted": 34018,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-09-05",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 13542990,
+	  "number_of_securities_allotted": 42190,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-08-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 618720,
+	  "number_of_securities_allotted": 1920,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-08-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 239591190,
+	  "number_of_securities_allotted": 746390,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-07-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 3320501,
+	  "number_of_securities_allotted": 7484,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 433.68
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-07-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 1753040,
+	  "number_of_securities_allotted": 5440,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-07-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 356041965,
+	  "number_of_securities_allotted": 1109165,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-07-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 6825888,
+	  "number_of_securities_allotted": 12456,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 538
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-07-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 3134634,
+	  "number_of_securities_allotted": 6526,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 470.33
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-07-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 35096856,
+	  "number_of_securities_allotted": 109336,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-07-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 154680,
+	  "number_of_securities_allotted": 480,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-06-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 3320501.12,
+	  "number_of_securities_allotted": 7484,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 433.68
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-06-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 159834246,
+	  "number_of_securities_allotted": 497926,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-06-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 6369160,
+	  "number_of_securities_allotted": 14812,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 420
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 9403900.74,
+	  "number_of_securities_allotted": 19578,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 470.33
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 3320501.12,
+	  "number_of_securities_allotted": 7484,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 433.68
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 121293381,
+	  "number_of_securities_allotted": 377861,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 273912.5,
+	  "number_of_securities_allotted": 850,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-04-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 116312103,
+	  "number_of_securities_allotted": 362343,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-04-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 154680,
+	  "number_of_securities_allotted": 480,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-04-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 12738320,
+	  "number_of_securities_allotted": 29624,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 420
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-04-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 137866290,
+	  "number_of_securities_allotted": 429490,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 328695,
+	  "number_of_securities_allotted": 1020,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 5022710,
+	  "number_of_securities_allotted": 11860,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 413.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 158350263,
+	  "number_of_securities_allotted": 493303,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 6369160,
+	  "number_of_securities_allotted": 14812,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 420
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 67434717,
+	  "number_of_securities_allotted": 210077,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 128900,
+	  "number_of_securities_allotted": 400,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-01-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 133385451,
+	  "number_of_securities_allotted": 415531,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2018-01-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 161125,
+	  "number_of_securities_allotted": 500,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 122589258,
+	  "number_of_securities_allotted": 381898,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 8349726,
+	  "number_of_securities_allotted": 19716,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 413.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 154680,
+	  "number_of_securities_allotted": 480,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 15678000,
+	  "number_of_securities_allotted": 36000,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 425.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-11-22",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 25000000000,
+	  "number_of_securities_allotted": 25000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-11-14",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 25000000000,
+	  "number_of_securities_allotted": 25000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-11-08",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 50000000000,
+	  "number_of_securities_allotted": 50000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-10-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 88822947,
+	  "number_of_securities_allotted": 276707,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-10-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 11475000,
+	  "number_of_securities_allotted": 30000,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 372.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-10-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 66261462,
+	  "number_of_securities_allotted": 206422,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 311
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-10-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 322250,
+	  "number_of_securities_allotted": 1000,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 312.25
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-09-04",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 25000000000,
+	  "number_of_securities_allotted": 25000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-09-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 6715863,
+	  "number_of_securities_allotted": 7929,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 837
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-09-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 196949550,
+	  "number_of_securities_allotted": 306775,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-09-01",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 25000000000,
+	  "number_of_securities_allotted": 25000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-08-31",
+	  "instrument": "Debentures",
+	  "total_amount_raised": 50000000000,
+	  "number_of_securities_allotted": 50000,
+	  "nominal_amount_per_security": 1000000,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-07-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 105335508,
+	  "number_of_securities_allotted": 164074,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-07-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 631610,
+	  "number_of_securities_allotted": 980,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-07-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 110133174,
+	  "number_of_securities_allotted": 171547,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 83492742,
+	  "number_of_securities_allotted": 130051,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-04-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 65196384,
+	  "number_of_securities_allotted": 101552,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-04-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 51560,
+	  "number_of_securities_allotted": 80,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-04-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 35932740,
+	  "number_of_securities_allotted": 55970,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-03-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 4683963948,
+	  "number_of_securities_allotted": 7295894,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 77060544,
+	  "number_of_securities_allotted": 120032,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-01-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 24866586,
+	  "number_of_securities_allotted": 38733,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-01-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 412480,
+	  "number_of_securities_allotted": 640,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-01-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 146948022,
+	  "number_of_securities_allotted": 228891,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2017-01-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 128900,
+	  "number_of_securities_allotted": 200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 168400,
+	  "number_of_securities_allotted": 200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 832
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 139436622,
+	  "number_of_securities_allotted": 217191,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 96675,
+	  "number_of_securities_allotted": 150,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-10-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 283580,
+	  "number_of_securities_allotted": 440,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-10-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 81609756,
+	  "number_of_securities_allotted": 127118,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 128900,
+	  "number_of_securities_allotted": 200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 91180692,
+	  "number_of_securities_allotted": 142026,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 421000,
+	  "number_of_securities_allotted": 500,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 832
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 98673474,
+	  "number_of_securities_allotted": 153697,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 438260,
+	  "number_of_securities_allotted": 680,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-07-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 153111222,
+	  "number_of_securities_allotted": 238491,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-07-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 309360,
+	  "number_of_securities_allotted": 480,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-07-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 171277896,
+	  "number_of_securities_allotted": 266788,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-05-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 744292428,
+	  "number_of_securities_allotted": 1159334,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-05-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 116010,
+	  "number_of_securities_allotted": 180,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-04-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 64450,
+	  "number_of_securities_allotted": 100,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-04-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 584100588,
+	  "number_of_securities_allotted": 909814,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-03-15",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 168051846,
+	  "number_of_securities_allotted": 261763,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 128900,
+	  "number_of_securities_allotted": 200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 301979466,
+	  "number_of_securities_allotted": 470373,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 505200,
+	  "number_of_securities_allotted": 600,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 832
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 1431400,
+	  "number_of_securities_allotted": 1700,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 832
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 153689664,
+	  "number_of_securities_allotted": 239392,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-01-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 121439436,
+	  "number_of_securities_allotted": 189158,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2016-01-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 673600,
+	  "number_of_securities_allotted": 800,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 832
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-11-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 97387548,
+	  "number_of_securities_allotted": 151694,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-11-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 757800,
+	  "number_of_securities_allotted": 900,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 832
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-10-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 84200,
+	  "number_of_securities_allotted": 100,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 832
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-10-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 148245504,
+	  "number_of_securities_allotted": 230912,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 256882818,
+	  "number_of_securities_allotted": 400129,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 179321514,
+	  "number_of_securities_allotted": 279317,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 773400,
+	  "number_of_securities_allotted": 1200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-07-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 292018836,
+	  "number_of_securities_allotted": 454858,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-07-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 193350,
+	  "number_of_securities_allotted": 300,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-07-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 804860634,
+	  "number_of_securities_allotted": 1253677,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-05-25",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 218884764,
+	  "number_of_securities_allotted": 340942,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-04-16",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 91548558,
+	  "number_of_securities_allotted": 142599,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-04-16",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 128900,
+	  "number_of_securities_allotted": 200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-04-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 171248364,
+	  "number_of_securities_allotted": 266742,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-02-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 108532026,
+	  "number_of_securities_allotted": 169053,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 101748012,
+	  "number_of_securities_allotted": 158486,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2015-01-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 187004970,
+	  "number_of_securities_allotted": 291285,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 167946558,
+	  "number_of_securities_allotted": 261599,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 386700,
+	  "number_of_securities_allotted": 600,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-10-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 130777968,
+	  "number_of_securities_allotted": 203704,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 747620,
+	  "number_of_securities_allotted": 1160,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 231047454,
+	  "number_of_securities_allotted": 359887,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 212539878,
+	  "number_of_securities_allotted": 331059,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 83785,
+	  "number_of_securities_allotted": 130,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-07-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 149443476,
+	  "number_of_securities_allotted": 232778,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-07-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 924213,
+	  "number_of_securities_allotted": 1434,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-07-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 74762,
+	  "number_of_securities_allotted": 116,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-07-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 615987444,
+	  "number_of_securities_allotted": 959482,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-07-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 2020800,
+	  "number_of_securities_allotted": 2400,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 832
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 141790,
+	  "number_of_securities_allotted": 220,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 290227014,
+	  "number_of_securities_allotted": 452067,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-04-15",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 61529922,
+	  "number_of_securities_allotted": 95841,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-04-15",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 90230,
+	  "number_of_securities_allotted": 140,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-04-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 170429172,
+	  "number_of_securities_allotted": 265466,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 58005,
+	  "number_of_securities_allotted": 90,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 150618978,
+	  "number_of_securities_allotted": 234609,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 101721690,
+	  "number_of_securities_allotted": 158445,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 515600,
+	  "number_of_securities_allotted": 800,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2014-01-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 167309694,
+	  "number_of_securities_allotted": 260607,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 451150,
+	  "number_of_securities_allotted": 700,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 169464888,
+	  "number_of_securities_allotted": 263964,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-10-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 70810674,
+	  "number_of_securities_allotted": 110297,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 19335,
+	  "number_of_securities_allotted": 30,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 634.5
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 145551030,
+	  "number_of_securities_allotted": 226715,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-08-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 66428382,
+	  "number_of_securities_allotted": 103471,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-07-24",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 634868664,
+	  "number_of_securities_allotted": 988892,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-07-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 77145930,
+	  "number_of_securities_allotted": 120165,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-05-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 67385604,
+	  "number_of_securities_allotted": 104962,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-04-15",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 172889958,
+	  "number_of_securities_allotted": 269299,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-04-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 253866060,
+	  "number_of_securities_allotted": 395430,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2013-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 119984022,
+	  "number_of_securities_allotted": 186891,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2012-01-19",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 17969580,
+	  "number_of_securities_allotted": 27990,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2012-01-05",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 45121686,
+	  "number_of_securities_allotted": 70283,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 47046402,
+	  "number_of_securities_allotted": 73281,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-10-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 24690678,
+	  "number_of_securities_allotted": 38459,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 70768944,
+	  "number_of_securities_allotted": 110232,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 38700,
+	  "number_of_securities_allotted": 60,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 635
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-08-25",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 103200,
+	  "number_of_securities_allotted": 160,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 635
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-08-25",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 81317004,
+	  "number_of_securities_allotted": 126662,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-07-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 96439314,
+	  "number_of_securities_allotted": 150217,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-07-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 201458958,
+	  "number_of_securities_allotted": 313799,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-05-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 143735454,
+	  "number_of_securities_allotted": 223887,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-04-21",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 52131684,
+	  "number_of_securities_allotted": 81202,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-04-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 85084902,
+	  "number_of_securities_allotted": 132531,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-02-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 204612462,
+	  "number_of_securities_allotted": 318711,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-01-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 103254144,
+	  "number_of_securities_allotted": 160832,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2011-01-03",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 184210344,
+	  "number_of_securities_allotted": 286932,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-11-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 144619488,
+	  "number_of_securities_allotted": 225264,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-10-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 140223072,
+	  "number_of_securities_allotted": 218416,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-10-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 251272380,
+	  "number_of_securities_allotted": 391390,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-08-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 343302438,
+	  "number_of_securities_allotted": 534739,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-07-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 336015096,
+	  "number_of_securities_allotted": 523388,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-06-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 42579366,
+	  "number_of_securities_allotted": 66323,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-06-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 126299376,
+	  "number_of_securities_allotted": 196728,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-04-22",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 49385850,
+	  "number_of_securities_allotted": 76925,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-03-31",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 27948186,
+	  "number_of_securities_allotted": 43533,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-03-07",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 77933022,
+	  "number_of_securities_allotted": 121391,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2010-01-31",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 79145760,
+	  "number_of_securities_allotted": 123280,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 632
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2009-11-23",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 219626916,
+	  "number_of_securities_allotted": 171049,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 1274
+	},
+	{
+	  "allotment_type": "Other than cash",
+	  "allotment_date": "2009-09-30",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 692518600,
+	  "number_of_securities_allotted": 69251860,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Other than cash",
+	  "allotment_date": "2009-09-30",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 7630,
+	  "number_of_securities_allotted": 763,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 0
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2009-06-29",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 74314750,
+	  "number_of_securities_allotted": 47945,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 1540
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2009-06-01",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 32818150,
+	  "number_of_securities_allotted": 21173,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 1540
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2009-05-02",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 3185250,
+	  "number_of_securities_allotted": 2055,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 1540
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2009-03-31",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 310000,
+	  "number_of_securities_allotted": 200,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 1540
+	},
+	{
+	  "allotment_type": "Cash",
+	  "allotment_date": "2009-02-04",
+	  "instrument": "Equity Shares Without Differential Rights",
+	  "total_amount_raised": 620000,
+	  "number_of_securities_allotted": 400,
+	  "nominal_amount_per_security": 10,
+	  "premium_amount_per_security": 1540
+	}
+]

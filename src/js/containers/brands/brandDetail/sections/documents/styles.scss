@@ -1,0 +1,204 @@
+$summary-gap: 20px;
+$label-color: #212519cc;
+$base-black: #212529;
+$label-size: 14px;
+
+.accordionContainer {
+  margin-bottom: 10px !important;
+  box-shadow: 2px 3px 6px 1px rgba(164, 164, 164, 0.2) !important;
+}
+
+.accordionHeading {
+  color: #212519;
+  margin: 0;
+  display: flex;
+  width: 75%;
+}
+
+.accordionHeading img {
+  margin-left: 10px;
+}
+
+.accordionSubHeading {
+  color: #212519;
+  opacity: 0.6;
+  margin: 0;
+}
+
+.mb10 {
+  margin-bottom: 10px !important;
+}
+
+.checkbox {
+  padding: 0 9px !important;
+}
+
+.fontWeight600 {
+  font-weight: 600 !important;
+}
+
+.tableCell {
+  color: $base-black;
+}
+
+.bankSummary {
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  .bankName {
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: $summary-gap;
+    color: $base-black;
+  }
+  .accountType,
+  .password {
+    color: #21252999;
+  }
+  .accountType {
+    margin-right: $summary-gap;
+  }
+  .passwordLabel {
+    color: $label-color;
+  }
+  .selected {
+    margin-left: auto;
+    margin-right: 30px;
+    color: $label-color;
+    font-size: $label-size;
+  }
+}
+
+.docName {
+  // border: 1px solid #e5e5e5;
+  padding: 9px 0px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  margin-left: -20px;
+  font-size: 14px;
+  color: #212529;
+  img {
+    height: 20px;
+    margin-right: 15px;
+  }
+}
+
+.tableContainer {
+  tr {
+    cursor: default !important;
+  }
+  td {
+    border: none;
+    position: relative;
+  }
+  th {
+    div {
+      color: $base-black;
+      font-size: 14px;
+      font-weight: 600;
+    }
+    &:nth-child(2) > div {
+      margin-left: -20px;
+    }
+  }
+}
+
+.moveFiles {
+  font-size: $label-size;
+}
+
+.menuLabel {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin: auto 20px;
+  color: #1518af;
+  font-weight: 600;
+  font-size: $label-size;
+}
+
+.menuLabelDisable {
+  display: flex;
+  align-items: center;
+  margin: auto 20px;
+  color: #1518af;
+  font-weight: 600;
+  font-size: $label-size;
+  opacity: 0.5;
+}
+
+.menuTitle {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.tableText {
+  display: flex;
+  align-items: center;
+  color: $base-black;
+  font-size: 14px;
+
+  img {
+    margin-right: 10px;
+  }
+}
+
+.dialogContent {
+  .mainTitle {
+    padding-bottom: 18px;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    color: $base-black;
+  }
+  .subTitle {
+    text-align: center;
+    color: rgba(33, 37, 41, 0.9);
+    width: 60%;
+    margin: auto;
+  }
+  .cta {
+    display: block;
+    margin: 30px auto;
+    background: #1518af;
+    border: none;
+    color: #fff;
+    padding: 12px 28px;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+}
+
+.fieldLabel {
+  margin-right: 10px;
+}
+
+.moreIcon {
+  margin-left: -16px !important;
+  position: absolute !important;
+  top: 50%;
+  transform: translateY(-50%);
+  svg {
+    fill: rgba(33, 37, 41, 0.7);
+  }
+}
+
+.selectionBox {
+  margin-left: 2px;
+}
+
+.menuItem {
+  span {
+    font-size: 14px;
+  }
+}
+
+.messageContainer{
+  margin-bottom: 18px !important;
+  .message{
+    margin: 20px 0px !important;
+  }
+}

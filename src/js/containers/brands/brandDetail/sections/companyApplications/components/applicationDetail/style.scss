@@ -1,0 +1,136 @@
+@import '../../../../../../../theme/variables.scss';
+.heading {
+  font-size: 18px;
+  line-height: 16px;
+  text-transform: capitalize;
+  color: $blackColor;
+}
+
+.subText {
+  font-size: 18px;
+  line-height: 16px;
+  text-transform: capitalize;
+  color: rgba(33, 37, 25, 0.7);
+}
+
+.w100 {
+  width: 100%;
+}
+
+.fieldItem {
+  margin-bottom: 15px !important;
+}
+
+.fieldLabel {
+  margin: 15px 0 0;
+  font-size: 0.8rem !important;
+  color: #00000061 !important;
+}
+
+.customeLabel {
+  white-space: nowrap;
+}
+
+// Opration Seaction
+
+.mainContainer{
+  padding-bottom: 30px;
+}
+
+.mainHeader {
+  font-size: 20px;
+  line-height: 16px;
+  color: $blackColor;
+  font-weight: 400;
+  padding-bottom: 30px;
+}
+
+.heading{
+  color: #212529;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 22px;
+  white-space: nowrap;
+  padding-bottom: 40px;
+}
+
+.heading2{
+  color: #212529;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 22px;
+  white-space: nowrap;
+  padding-bottom: 20px;
+}
+
+.subHeader {
+  color: #212529b3;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  padding-bottom: 14px;
+  margin: 0px;
+}
+
+.subHeaderValue {
+  color: $blackColor;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  margin: 0px;
+}
+
+.actionContainer {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.isPrimary {
+  background-color: #219653;
+  color: #fff;
+  height: fit-content;
+  padding: 4px 14px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.actions{
+  padding: 10px;
+  cursor: pointer;
+}
+
+.actionsBorder{
+  border-bottom: 2px solid #f5f5f5;
+}
+
+.primaryBtn{
+  background-color: #5064E2 !important;
+  margin-right: 10px !important;
+}
+
+.mt6 {
+  margin-top: 6px;
+}
+
+.mb15{
+  margin-top: 15px !important;
+  margin-bottom: 20px !important; 
+}
+
+.disabledText{
+  opacity: 0.3;
+}
+
+.fieldHeading{
+  padding-bottom: 8px;
+}
+
+.seactionSpacing{
+  padding-bottom: 14px;
+}
+
+.cancelBtn{
+  margin-right: 10px !important;
+}

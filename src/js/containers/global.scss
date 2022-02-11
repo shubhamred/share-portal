@@ -1,0 +1,75 @@
+@import '../theme/variables.scss';
+.drawerIconContainer {
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  width: 65px;
+  padding-top: 22px;
+  z-index: 99;
+  position: fixed;
+  height: 100vh;
+}
+
+.bodyContentWrapper {
+  // padding: 55px 40px 0px 40px !important;
+  width: -webkit-fill-available;
+}
+
+.commonSpacing {
+  padding: 14px 34px 14px 20px !important;
+}
+
+.mainDetailsWrapperSpacing {
+  padding: 14px 34px 24px 20px !important;
+}
+
+.drawerIcon {
+  margin: 0px !important;
+  height: 32px;
+  width: 32px;
+  background-color: #f8f8fd !important;
+  border: 1px solid #e0e7ff !important;
+  box-shadow: 0px 1px 3px #0000001a;
+}
+
+.fullHeight {
+  height: calc(100vh - 64px);
+}
+
+.fitContentHeight {
+  height: fit-content;
+  margin-left: 65px !important;
+  padding: 0 !important;
+}
+
+.wrapper {
+  font-family: $fontFamily;
+  height: calc(100vh - 64px);
+  overflow-y: auto;
+  background-color: white;
+}
+
+.tableStyle {
+  margin: 10px 24px 20px 24px !important;
+}
+
+.commanPadding {
+  padding: 10px 24px 20px 24px !important;
+}
+
+.primaryCTA {
+  color: #fff !important;
+  border: none !important;
+  cursor: pointer !important;
+  margin: 0 10px !important;
+  outline: none !important;
+  padding: 10px 20px !important;
+  font-size: 15px !important;
+  min-width: 97px !important;
+  background-color: #5064E2 !important;
+}
+
+.selectboxHeight {
+  height: 45px;
+}

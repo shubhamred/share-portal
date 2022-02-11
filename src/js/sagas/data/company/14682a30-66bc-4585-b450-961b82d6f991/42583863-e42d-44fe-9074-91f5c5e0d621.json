@@ -1,0 +1,33 @@
+{
+	"authorizedCapital": 150000000000,
+	"cin": "L17110MH1973PLC019786",
+	"efiling_status": "Active",
+	"incorporation_date": "1973-05-08",
+	"legal_name": "RELIANCE INDUSTRIES LIMITED",
+	"paidUpCapital": 63392035300,
+	"sum_of_charges": 408460000000,
+	"active_compliance": "ACTIVE compliant",
+	"registered_address": {
+	  "address_line1": "3 RD FLOORMAKER CHAMBER IV",
+	  "address_line2": "222 NARIMAN POINT",
+	  "city": "MUMBAI",
+	  "pincode": "400021",
+	  "state": "MAHARASHTRA"
+	},
+	"business_address": {
+	  "address_line1": "222, Post Box 11717, 3rd Floor,",
+	  "address_line2": "Maker Chambers IV, Nariman Point",
+	  "city": "Mumbai",
+	  "pincode": 400021,
+	  "state": "Maharashtra"
+	},
+	"pan": "AAACR5055K",
+	"website": "https://www.ril.com",
+	"classification": "Public Limited Indian Non-Government Company",
+	"status": "Listed",
+	"next_cin": null,
+	"last_agm_date": "2019-08-12",
+	"last_filing_date": "2019-03-31",
+	"email": "savithri.parekh@ril.com",
+	"description": "Reliance Industries Limited (RIL) was formerly known as Reliance Textile Industries Private Limited. RIL engages in the business of exploration and production, petroleum refining and marketing, and textiles. The company operates in refining, petrochemicals, oil and gas, organized retail, and digital services segments. It produces and markets petroleum products, such as liquefied petroleum gas, propylene, naphtha, gasoline, jet/aviation turbine fuel, kerosene oil, diesel, sulphur, petroleum coke, and alkylate; and polyethylene, polypropylene, polyvinyl chloride, polyester yarn, polyester fiber, purified terephthalic acid, paraxylene, ethylene glycol, olefins, aromatics, linear alkyl benzene, butadiene, acrylonitrile, poly butadiene rubber, caustic soda, and polyethylene terephthalate."
+}

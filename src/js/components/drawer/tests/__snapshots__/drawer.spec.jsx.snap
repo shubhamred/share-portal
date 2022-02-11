@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/drawer Renders default options 1`] = `
+<WithStyles(ForwardRef(Drawer))
+  anchor="left"
+  className="makeStyles-drawer-4"
+  classes={
+    Object {
+      "paper": "makeStyles-drawerPaper-5",
+    }
+  }
+  onClose={[Function]}
+  open={false}
+>
+  <div
+    className="makeStyles-drawerHeader-6"
+  >
+    <div
+      className="makeStyles-draweLogo-7"
+    >
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-title-9"
+        noWrap={true}
+        variant="h5"
+      />
+      <WithStyles(ForwardRef(IconButton))
+        aria-label="open drawer"
+        className="makeStyles-drawerIcon-8"
+        color="inherit"
+        edge="start"
+        onClick={[Function]}
+      >
+        <Memo(ForwardRef(ChevronLeftIcon))
+          style={
+            Object {
+              "color": "#1518AF",
+            }
+          }
+        />
+      </WithStyles(ForwardRef(IconButton))>
+    </div>
+  </div>
+  <WithStyles(ForwardRef(Divider)) />
+  <WithStyles(ForwardRef(List))
+    className="makeStyles-listContainer-12"
+    style={
+      Object {
+        "overflowX": "hidden",
+        "width": "270px",
+      }
+    }
+  >
+    <p>
+       test 
+    </p>
+  </WithStyles(ForwardRef(List))>
+</WithStyles(ForwardRef(Drawer))>
+`;

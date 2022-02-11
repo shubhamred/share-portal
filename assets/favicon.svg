@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Favicon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Sunil's-space" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-164.000000, -158.000000)" fill-rule="nonzero">
+            <g id="Favicon" transform="translate(164.000000, 158.000000)">
+                <rect id="BG" fill="#1518AF" x="0" y="0" width="99.84" height="99.84"></rect>
+                <g id="Klub-Logo" transform="translate(28.000000, 14.000000)">
+                    <polygon id="path17" fill="#FFFFFF" points="13 70.58 0 70.58 0 -4.26325641e-14 13 -4.26325641e-14"></polygon>
+                    <g id="g8907" transform="translate(5.480000, 21.290000)">
+                        <polygon id="Path" fill="#C1C0C0" points="22.69 0.99 37.42 1.01 14.18 24.83 7.41 16.41"></polygon>
+                        <path d="M18.6,5.14 C18.6,5.14 12.54,12 17.08,22.37 C18.39,25 45.85,51.75 45.85,51.75 L28.31,51.75 L0.21,23.66 L18.6,5.14 Z" id="path417-1-5" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

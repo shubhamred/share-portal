@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/breadcrumb Renders default options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  className="makeStyles-mainRoot-1"
+  container={true}
+  direction="row"
+  item={true}
+  justify="space-between"
+>
+  <WithStyles(ForwardRef(Grid))
+    className="makeStyles-pageNameContainer-2"
+    item={true}
+    lg={1}
+    md={1}
+    sm={1}
+  >
+    Page Name
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    lg={8}
+    md={7}
+    sm={6}
+  >
+    <WithStyles(ForwardRef(FormControl))
+      className="makeStyles-margin-4 makeStyles-textField-5"
+      variant="outlined"
+    >
+      <WithStyles(ForwardRef(OutlinedInput))
+        aria-describedby="outlined-weight-helper-text"
+        autoComplete="off"
+        className="makeStyles-inputHeight-7"
+        endAdornment={
+          <ForwardRef(WithStyles(ForwardRef(InputAdornment)))
+            position="start"
+          >
+            
+          </ForwardRef(WithStyles(ForwardRef(InputAdornment)))>
+        }
+        id="outlined-adornment-weight"
+        inputProps={
+          Object {
+            "aria-label": "search",
+          }
+        }
+        labelWidth={0}
+        onChange={[Function]}
+        startAdornment={
+          <ForwardRef(WithStyles(ForwardRef(InputAdornment)))
+            position="start"
+          >
+            <UNDEFINED
+              style={
+                Object {
+                  "color": "#7B8395",
+                }
+              }
+            />
+          </ForwardRef(WithStyles(ForwardRef(InputAdornment)))>
+        }
+        value=""
+      />
+    </WithStyles(ForwardRef(FormControl))>
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    lg={3}
+    md={4}
+    sm={5}
+  >
+    <WithStyles(ForwardRef(Grid))
+      className="makeStyles-filterContainer-3"
+      container={true}
+      item={true}
+      justify="flex-end"
+      style={Object {}}
+    >
+      <FilterProvider
+        customFilterData={Array []}
+        onApplyFilter={[Function]}
+        type="DRAWER"
+      >
+        <WithStyles(ForwardRef(Button))
+          className="makeStyles-filterButton-8"
+          onClick={[Function]}
+          type="button"
+        >
+          Add filters
+        </WithStyles(ForwardRef(Button))>
+      </FilterProvider>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;

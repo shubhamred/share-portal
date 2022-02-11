@@ -1,0 +1,30 @@
+@import "src/js/theme/variables";
+
+.container {
+  align-items: baseline;
+  display: flex;
+  flex-grow: 1;
+  width: 90% !important;
+}
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-family: $fontFamily;
+  display: flex;
+  line-height: 17px;
+  color: #212529;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.dFlex {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.editBtn {
+  color: $textColor;
+}

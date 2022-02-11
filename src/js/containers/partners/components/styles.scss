@@ -1,0 +1,51 @@
+@import 'src/js/theme/variables';
+
+.formLabelStyle {
+  margin: 20px 0 !important;
+}
+
+.createPartner {
+    padding-top: 20px;
+}
+
+.overView {
+    font-size: 16px;
+    line-height: 14px;
+    font-weight: 400;
+}
+
+.form {
+    margin: 0 auto;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.btnContainer {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+  
+.btnContainer button {
+    width: 100px;
+}
+
+.error {
+    font-size: 12px;
+    color: red;
+}
+
+.w100 input[type='tel'] {
+    border: none;
+    text-decoration: none;
+    padding: 6px;
+    border-bottom: 1px solid rgba(33, 37, 25, 0.6);
+}
+ 
+.w100.PhoneInput--focus,
+.w100 input[type='tel']:focus {
+    border: none;
+    border-bottom: 1px solid #000;
+}
+

@@ -1,0 +1,25 @@
+@import "app/theme/variables.scss";
+
+.tableHeading {
+  // text-align: center;
+  font-size: $headerFontSize !important;
+  font-weight: $titleFontWeight;
+  width: 100%;
+  padding-bottom: 1%;
+  color: $titleColor;
+  margin: 16px !important;
+}
+
+
+.filterWrapper {
+  padding: 1% 2.4% 3%;
+}
+
+.filter {
+  font-size: 15px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  color: #647C91;
+}

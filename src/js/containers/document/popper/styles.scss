@@ -1,0 +1,14 @@
+.wrapper {
+    width: 284px;
+    height: 67px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 7px 7px 7px 7px rgba(70, 89, 138, 0.1);
+    border-radius: 4%;
+    padding: 9%;
+    background-color: white;
+    position: absolute;
+    top: 100%;
+    z-index: 100;
+}

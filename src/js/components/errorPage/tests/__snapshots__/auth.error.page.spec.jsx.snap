@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Auth Error page renders With props 1`] = `
+<Fragment>
+  <div
+    className="grow"
+  >
+    <WithStyles(ForwardRef(AppBar))
+      className="appBar"
+      position="fixed"
+    >
+      <WithStyles(ForwardRef(Toolbar))>
+        <WithStyles(ForwardRef(Grid))
+          container={true}
+        >
+          <WithStyles(ForwardRef(Grid))
+            style={
+              Object {
+                "padding": "8px",
+                "paddingLeft": "0px",
+                "width": "72px",
+              }
+            }
+          >
+            <img
+              alt="Klub"
+              src="/assets/klub-logo-white.svg"
+            />
+          </WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Typography))
+            className="title"
+            noWrap={true}
+            variant="h5"
+          >
+            Portal
+          </WithStyles(ForwardRef(Typography))>
+        </WithStyles(ForwardRef(Grid))>
+        <WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Grid))
+            className="logout"
+            onClick={[Function]}
+          >
+            Logout
+          </WithStyles(ForwardRef(Grid))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(Toolbar))>
+    </WithStyles(ForwardRef(AppBar))>
+  </div>
+  <div
+    className="errorContainer"
+  >
+    <h1
+      className="errorCode"
+    >
+      401
+    </h1>
+    <p
+      className="errorMessage"
+    >
+      You are not authorized to access this page
+    </p>
+    <p
+      className="errorDescription"
+    >
+      <b>
+        Details : 
+      </b>
+      Error
+    </p>
+  </div>
+</Fragment>
+`;
+
+exports[`components/Auth Error page renders correctly 1`] = `
+<Fragment>
+  <div
+    className="grow"
+  >
+    <WithStyles(ForwardRef(AppBar))
+      className="appBar"
+      position="fixed"
+    >
+      <WithStyles(ForwardRef(Toolbar))>
+        <WithStyles(ForwardRef(Grid))
+          container={true}
+        >
+          <WithStyles(ForwardRef(Grid))
+            style={
+              Object {
+                "padding": "8px",
+                "paddingLeft": "0px",
+                "width": "72px",
+              }
+            }
+          >
+            <img
+              alt="Klub"
+              src="/assets/klub-logo-white.svg"
+            />
+          </WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Typography))
+            className="title"
+            noWrap={true}
+            variant="h5"
+          >
+            Portal
+          </WithStyles(ForwardRef(Typography))>
+        </WithStyles(ForwardRef(Grid))>
+        <WithStyles(ForwardRef(Grid))>
+          <WithStyles(ForwardRef(Grid))
+            className="logout"
+            onClick={[Function]}
+          >
+            Logout
+          </WithStyles(ForwardRef(Grid))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(Toolbar))>
+    </WithStyles(ForwardRef(AppBar))>
+  </div>
+  <div
+    className="errorContainer"
+  >
+    <h1
+      className="errorCode"
+    >
+      401
+    </h1>
+    <p
+      className="errorMessage"
+    >
+      You are not authorized to access this page
+    </p>
+    <p
+      className="errorDescription"
+    >
+      <b>
+        Details : 
+      </b>
+      Error
+    </p>
+  </div>
+</Fragment>
+`;

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Close Button Renders default options 1`] = `
+<div
+  className="closeButton"
+  onClick={[Function]}
+  role="presentation"
+>
+  <Memo(ForwardRef(CancelIcon))
+    style={
+      Object {
+        "fill": "#3b3b3b",
+        "fontSize": "20",
+      }
+    }
+  />
+  <span
+    style={
+      Object {
+        "fontWeight": 100,
+      }
+    }
+  >
+    Remove
+  </span>
+</div>
+`;

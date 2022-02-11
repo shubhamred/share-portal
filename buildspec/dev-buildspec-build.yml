@@ -1,0 +1,23 @@
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+      nodejs: 14
+  pre_build:
+    commands:
+      # Preparing test environment
+      - aws s3 cp s3://$ENVIRONMENT_BUCKET/$ENVIRONMENT_FILE_FOLDER/env.development ./.env
+      - cat ./.env
+  build:
+    commands:
+      - echo Build started on `date`
+      - npm install --unsafe-perm
+      - npm run tests
+      - npm run build
+artifacts:
+  files:
+    - '**/*'
+  base-directory: dist
+cache:
+  paths:
+    - 'node_modules/**/*'

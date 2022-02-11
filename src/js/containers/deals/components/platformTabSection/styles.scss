@@ -1,0 +1,95 @@
+.tabContainer {
+  border: 1px solid #e3e3e3;
+  border-radius: 0 0 10px 10px;
+}
+
+.tabContainer .listItemPadding:last-child {
+  border: none;
+}
+
+.siderBarItem {
+  padding: 10px;
+  cursor: pointer;
+  color: #3f51b5;
+}
+
+.siderBarItem:hover {
+  background-color: rgba(63, 81, 181, 0.04);
+}
+
+.dialoguePadd {
+  padding: 25px;
+}
+
+.grousAddDialoguePadding {
+  padding: 10px;
+}
+
+.stickyHeader {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 4rem;
+  z-index: 99;
+}
+
+.stickyGroup {
+  position: sticky;
+  top: 8rem;
+}
+
+.sideBarContainer {
+  text-align: center;
+}
+
+.formContainer {
+  border-left: 1px solid #dedede;
+}
+
+.listItemPadding {
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+}
+.listItemPadding:last-child {
+  border-bottom: none !important;
+}
+.sectionVisiblity {
+  //border: 1px solid #3B3B3B;
+  border-radius: 4px;
+  width: fit-content;
+  padding: 1px 7px;
+  background: #6fcf97;
+  font-size: 12px;
+  color: #fff;
+}
+.sectionHidden {
+  font-size: 12px;
+  color: #fff;
+  border-radius: 4px;
+  width: fit-content;
+  padding: 1px 7px;
+  background: #e0e0e0;
+}
+.sectionName {
+  font-weight: bold;
+}
+.sectionUpdateTime {
+  color: #898989;
+  font-size: 0.9rem;
+}
+
+.formLabelStyle {
+  margin: 5px !important;
+}
+
+.cancelButtonStyle {
+  margin: 5px !important;
+}
+
+.updateButtonStyle {
+  margin: 5px !important;
+}
+.addBtn {
+  //float: right;
+  //margin-bottom: 10px !important;
+  //clear: both;
+}

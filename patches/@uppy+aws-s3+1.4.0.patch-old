@@ -1,0 +1,40 @@
+diff --git a/node_modules/@uppy/aws-s3/lib/index.js b/node_modules/@uppy/aws-s3/lib/index.js
+index cf95e03..574d6c8 100644
+--- a/node_modules/@uppy/aws-s3/lib/index.js
++++ b/node_modules/@uppy/aws-s3/lib/index.js
+@@ -28,8 +28,12 @@ function resolveUrl(origin, link) {
+ }
+ 
+ function isXml(content, xhr) {
+-  var contentType = (xhr.headers ? xhr.headers['content-type'] : xhr.getResponseHeader('Content-Type')). // Get rid of mime parameters like charset=utf-8
+-  replace(/;.*$/, '').toLowerCase();
++  const rawContentType = (xhr.headers ? xhr.headers['content-type'] : xhr.getResponseHeader('Content-Type'))
++  if (rawContentType === null) {
++    	    return false
++  }  
++ // Get rid of mime parameters like charset=utf-8
++ const contentType = rawContentType.replace(/;.*$/, '').toLowerCase()
+ 
+   if (typeof contentType === 'string') {
+     if (contentType === 'application/xml' || contentType === 'text/xml') {
+diff --git a/node_modules/@uppy/aws-s3/src/index.js b/node_modules/@uppy/aws-s3/src/index.js
+index 22a1b96..207fcec 100644
+--- a/node_modules/@uppy/aws-s3/src/index.js
++++ b/node_modules/@uppy/aws-s3/src/index.js
+@@ -12,10 +12,12 @@ function resolveUrl (origin, link) {
+ }
+ 
+ function isXml (content, xhr) {
+-  const contentType = (xhr.headers ? xhr.headers['content-type'] : xhr.getResponseHeader('Content-Type'))
+-    // Get rid of mime parameters like charset=utf-8
+-    .replace(/;.*$/, '')
+-    .toLowerCase()
++  const rawContentType = (xhr.headers ? xhr.headers['content-type'] : xhr.getResponseHeader('Content-Type'))
++  if (rawContentType === null) {
++    	    return false
++  }  
++  // Get rid of mime parameters like charset=utf-8
++  const contentType = rawContentType.replace(/;.*$/, '').toLowerCase()
+   if (typeof contentType === 'string') {
+     if (contentType === 'application/xml' || contentType === 'text/xml') {
+       return true

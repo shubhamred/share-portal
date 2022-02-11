@@ -1,0 +1,155 @@
+.resourceSelect {
+  min-width: 180px;
+  margin-right: 10px;
+}
+
+.heading {
+  color: #212529;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.subHeading {
+  color: #212529;
+  font-weight: 400;
+  font-size: 16px;
+  padding-top: 10px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.mb1rem {
+  margin-bottom: 1rem;
+}
+
+.paddingLR {
+  padding: 0px 24px;
+}
+
+.accHeading {
+  font-weight: 600;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.selectPadding {
+  padding: 10px;
+}
+
+.accBtnContainer {
+  //margin-right: 2rem;
+}
+
+.accBtnContainer button {
+  margin-right: 10px;
+}
+
+.message {
+  padding: 20px 0;
+}
+
+.buttonContainer {
+  padding-bottom: 14px;
+}
+
+.listItemPadding {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  border: 1px solid #f2f2f2;
+  margin-bottom: 20px !important;
+  cursor: pointer;
+  box-shadow: 2px 3px 6px 1px rgba(164, 164, 164, 0.2);
+  border-radius: 4px;
+}
+
+.listSubContainer {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.fontStyle {
+  font-weight: 600;
+}
+
+.buttonStyle {
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 10px 20px;
+  font-size: 15px;
+  min-width: 97px;
+  background-color: #5064e2;
+}
+
+.outlineButtonStyle {
+  color: #5064e2 !important;
+  background-color: #fff;
+  padding: 8px 10px;
+  margin-right: 18px;
+}
+
+.listItemValue {
+  color: rgba(33, 37, 25, 0.7);
+  font-size: 14px;
+  line-height: 16px;
+  margin: 0 0px 0 4px;
+}
+
+.btnSpacing {
+  padding: 8px 10px;
+  margin-left: 16px;
+  background-color: #5064e2 !important;
+}
+
+.mt14 {
+  margin-top: 24px;
+}
+
+.descriptionContainer {
+  padding-top: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.descriptionContainerLast {
+  padding-top: 10px;
+}
+
+.templateContainer {
+  padding-top: 10px;
+}
+
+.fileContainer {
+  display: flex;
+}
+
+.mt10 {
+  margin-top: 8px;
+}
+
+.tag {
+  background: #1518af;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 500;
+  width: fit-content;
+  display: inline-flex;
+  padding: 6px 15px;
+  margin-left: 16px;
+  border-radius: 1px;
+}
+
+.editOption {
+  color: #1518af !important;
+  font-weight: 600;
+
+  &::before, &::after {
+    border: none !important;
+  }
+}

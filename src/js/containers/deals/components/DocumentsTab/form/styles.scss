@@ -1,0 +1,39 @@
+@import 'src/js/theme/variables';
+
+.formControl {
+  width: 100%;
+}
+.inputGap {
+  margin-bottom: 20px !important;
+}
+.buttons {
+  text-align: end;
+}
+.inputHeading {
+  padding: 0;
+  margin: 0 0 8px 10px;
+  font-size: 16px;
+  margin-left: 0px;
+}
+.switchContainer{
+  padding-left: 10px;
+}
+.inputHeight {
+  height: 45px !important;
+  width: 100%;
+  // box-shadow: 0px 7px 64px rgba(0, 0, 0, 0.07) !important;
+  // border-radius: 6px !important;
+  // fieldset {
+  //   border: 1.5px solid #ecebed !important;
+  // }
+  // fieldset:hover {
+  //   border: 1.5px solid #ecebed !important;
+  // }
+  // fieldset:active {
+  //   border: 1.5px solid #ecebed !important;
+  // }
+}
+
+.noDataText{
+  margin-top: 0px;
+}

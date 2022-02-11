@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/breadcrumb Renders default options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  className="makeStyles-formContainer-1"
+  container={true}
+  direction="row"
+  item={true}
+  justify="space-between"
+  style={Object {}}
+>
+  <div
+    className="makeStyles-divBreadcrumbs-2"
+  >
+    <WithStyles(ForwardRef(Breadcrumbs))
+      aria-label="breadcrumb"
+    />
+  </div>
+</WithStyles(ForwardRef(Grid))>
+`;

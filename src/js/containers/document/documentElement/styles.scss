@@ -1,0 +1,64 @@
+@import 'app/theme/variables.scss';
+
+.container {
+  padding: 1% !important;
+  margin-bottom: 1.5% !important;
+  @media only screen and (max-width: 700px) {
+    width: 100% !important;
+}
+}
+
+.containerMultiple {
+  padding: 1% 0 !important;
+  @media only screen and (max-width: 700px) {
+    width: 100% !important;
+}
+}
+.category {
+  font-family: $titleFontFamily;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #164363;
+  letter-spacing: 0;
+  margin-bottom: 20px !important;
+
+}
+.documentLabel {
+  font-family: $fontFamily;
+  font-size: $textFontSize;
+  line-height: $textLineHeight;
+  color: $textColor;
+  align-items: center;
+  display: flex;
+}
+.statusText {
+  font-family: $fontFamily;
+  font-size: $textFontSize;
+  line-height: $textLineHeight;
+  color: #000000;
+  height: 35px;
+  position: relative;
+  align-items: center;
+}
+.navIcons {
+  align-items: center;
+  padding: 0 12px !important
+}
+.multipleDoc {
+  margin-bottom: 2% !important;
+}
+.uploadedFile {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 14px; 
+  color: #CAD1DF;
+  height: fit-content !important;
+}
+.uploadButton {
+  height: fit-content !important;
+}
+.entityWrapper {
+  margin-right: 20px !important;
+}

@@ -1,0 +1,34 @@
+.root {
+  width: 100%
+}
+.sliderRoot {
+  color: #000 !important;
+  width: 90% !important;
+  margin-left: 0px !important;
+}
+
+.disabled {
+  color: #bdbdbd !important;
+  margin-left: 0px !important;
+}
+
+.warning {
+  color: red
+}
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  display: flex;
+  font-size: 14px;
+  line-height: 17px;
+  color: #164363;
+}
+.endPoint {
+  text-align: end;
+}
+.valueRoot {
+  color: #000 !important;
+  width: 92% !important;
+}

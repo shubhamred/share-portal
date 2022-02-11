@@ -1,0 +1,31 @@
+@import "src/js/theme/variables";
+
+.modalContainer {
+  max-width: 80%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0 auto;
+  padding: 30px;
+  background: white;
+}
+
+.text {
+  color: $secondaryColor;
+  font-size: 1.4rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text svg {
+  padding-right: 15px;
+}
+.closeBtn {
+  cursor: pointer;
+  position: absolute;
+  right: 40px;
+  top: 4px;
+  font-size: 20px;
+}

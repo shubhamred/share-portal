@@ -1,0 +1,44 @@
+.errorContainer {
+    margin-left: 10em;
+    //background-image: url(../../../../assets/bg/error/bg1.png);
+}
+
+.errorCode {
+    font-size: 10em;
+    color: dimgray;
+}
+
+.errorMessage {
+    font-size: 2em;
+    color: cornflowerblue;
+    font-weight: normal;
+}
+
+.errorDescription {
+    font-size: 20px;
+}
+
+.logout{
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    padding: 0;
+    font-weight: normal;
+    color: #fff;
+}
+
+.grow{
+    flex-grow: 1;
+}
+
+.appBar{
+    background-color: #4959D3;
+    height: 64px;
+}
+
+.title{
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 10px;
+    padding-left: 5px;
+}

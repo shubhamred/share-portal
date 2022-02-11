@@ -1,0 +1,9 @@
+node_modules
+
+dist
+reports
+.vscode/launch.json
+.idea
+
+.env
+.env*

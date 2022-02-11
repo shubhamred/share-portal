@@ -1,0 +1,78 @@
+.mb10 {
+  margin-bottom: 10px !important;
+}
+
+.headerText {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  color: #212529;
+  padding-top: 20px;
+}
+
+.GridDiv {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 20px;
+}
+
+.accountMainCard {
+  width: 30%;
+}
+
+.accountCard {
+  background: rgba(33, 37, 41, 0.03);
+  padding: 30px;
+  margin-bottom: 50px;
+}
+
+.imaegDiv {
+  padding-bottom: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contentDiv {
+  padding-bottom: 30px;
+}
+
+.innerHeading {
+  color: #212519;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.innerText {
+  color: #21241999;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 16px !important;
+  padding-top: 15px !important;
+}
+
+.toggleSwitch {
+  line-height: 16px;
+  padding-left: 5px;
+}
+
+.moreIcon{
+  color: #212519;
+  cursor: pointer;
+}
+
+.mr10{
+  margin-right: 10px;
+}
+
+.buttonContainer{
+  text-align: right;
+}
+
+.disabledStyle{
+  opacity: 0.6;
+  cursor: not-allowed;
+  pointer-events: none;
+}

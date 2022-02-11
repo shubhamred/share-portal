@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/slider Renders default options 1`] = `
+<MuiTooltips
+  anchorOriginHorizontal="center"
+  anchorOriginVertical="bottom"
+  onChange={[MockFunction]}
+  title="Test"
+  transformOriginHorizontal="center"
+  transformOriginVertical="top"
+  value=""
+>
+  <div>
+    <div
+      aria-describedby={null}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchStart={[Function]}
+    >
+      <p>
+        Test
+      </p>
+    </div>
+    <ForwardRef
+      anchorEl={null}
+      anchorOrigin={
+        Object {
+          "horizontal": "center",
+          "vertical": "bottom",
+        }
+      }
+      classes={
+        Object {
+          "paper": "makeStyles-paper-1",
+        }
+      }
+      disableAutoFocus={false}
+      disableEnforceFocus={false}
+      disableRestoreFocus={true}
+      id="demoPopper"
+      onClose={[Function]}
+      onMouseLeave={[Function]}
+      open={false}
+      transformOrigin={
+        Object {
+          "horizontal": "center",
+          "vertical": "top",
+        }
+      }
+    >
+      <WithStyles(ForwardRef(Popover))
+        PaperProps={
+          Object {
+            "style": Object {
+              "pointerEvents": "auto",
+            },
+          }
+        }
+        anchorEl={null}
+        anchorOrigin={
+          Object {
+            "horizontal": "center",
+            "vertical": "bottom",
+          }
+        }
+        classes={
+          Object {
+            "paper": "makeStyles-paper-1",
+          }
+        }
+        disableAutoFocus={false}
+        disableEnforceFocus={false}
+        disableRestoreFocus={true}
+        id="demoPopper"
+        onClose={[Function]}
+        onMouseLeave={[Function]}
+        open={false}
+        style={
+          Object {
+            "pointerEvents": "none",
+          }
+        }
+        transformOrigin={
+          Object {
+            "horizontal": "center",
+            "vertical": "top",
+          }
+        }
+      >
+        <ForwardRef(Popover)
+          PaperProps={
+            Object {
+              "style": Object {
+                "pointerEvents": "auto",
+              },
+            }
+          }
+          anchorEl={null}
+          anchorOrigin={
+            Object {
+              "horizontal": "center",
+              "vertical": "bottom",
+            }
+          }
+          classes={
+            Object {
+              "paper": "MuiPopover-paper makeStyles-paper-1",
+              "root": "MuiPopover-root",
+            }
+          }
+          disableAutoFocus={false}
+          disableEnforceFocus={false}
+          disableRestoreFocus={true}
+          id="demoPopper"
+          onClose={[Function]}
+          onMouseLeave={[Function]}
+          open={false}
+          style={
+            Object {
+              "pointerEvents": "none",
+            }
+          }
+          transformOrigin={
+            Object {
+              "horizontal": "center",
+              "vertical": "top",
+            }
+          }
+        >
+          <ForwardRef(Modal)
+            BackdropProps={
+              Object {
+                "invisible": true,
+              }
+            }
+            className="MuiPopover-root"
+            disableAutoFocus={false}
+            disableEnforceFocus={false}
+            disableRestoreFocus={true}
+            id="demoPopper"
+            onClose={[Function]}
+            onMouseLeave={[Function]}
+            open={false}
+            style={
+              Object {
+                "pointerEvents": "none",
+              }
+            }
+          />
+        </ForwardRef(Popover)>
+      </WithStyles(ForwardRef(Popover))>
+    </ForwardRef>
+  </div>
+</MuiTooltips>
+`;

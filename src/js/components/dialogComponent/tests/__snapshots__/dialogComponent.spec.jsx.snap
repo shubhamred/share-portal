@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/DialogComponent Renders default DialogComponent 1`] = `
+<WithStyles(ForwardRef(Dialog))
+  classes={
+    Object {
+      "paper": "makeStyles-root-1 makeStyles-root-3",
+    }
+  }
+  disableAutoFocus={false}
+  disableEnforceFocus={false}
+  maxWidth={false}
+  open={true}
+>
+  <WithStyles(ForwardRef(Grid))
+    className="grid"
+  >
+    <div
+      className="modalTitle"
+      style={Object {}}
+    />
+    <div
+      className="closeBtnContainer"
+    >
+      <WithStyles(ForwardRef(IconButton))
+        className="iconButtonStyle"
+        disableRipple={true}
+        onClick={[Function]}
+      >
+        <img
+          alt="close"
+          height={14}
+          src="/assets/close.svg"
+          width={14}
+        />
+      </WithStyles(ForwardRef(IconButton))>
+    </div>
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(DialogContent))
+    className="wrapper"
+    style={Object {}}
+  >
+    <p>
+      Test
+    </p>
+  </WithStyles(ForwardRef(DialogContent))>
+</WithStyles(ForwardRef(Dialog))>
+`;

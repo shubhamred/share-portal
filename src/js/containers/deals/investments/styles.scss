@@ -1,0 +1,186 @@
+@import "src/js/theme/variables";
+
+.tableStyle {
+  // width: 100%;
+  // margin: 0 16px !important;
+}
+
+.marginContainer {
+  width: auto !important;
+  margin: 0px 24px 30px 24px !important;
+}
+
+.tableHeading {
+  // text-align: center;
+  font-size: $headerFontSize !important;
+  font-weight: $titleFontWeight;
+  width: 100%;
+  padding-bottom: 1%;
+  color: $titleColor;
+  margin: 16px !important;
+}
+
+.wrapper {
+  font-family: $fontFamily;
+  background-color: white;
+}
+
+.filterWrapper {
+  padding: 1% 2.4% 3%;
+}
+
+.filter {
+  font-size: 15px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  color: #647c91;
+}
+
+.marginBottomContainer {
+  margin: 0 16px 16px 16px !important;
+}
+
+.cardCustom {
+  box-shadow: 0 7px 64px rgba(0, 0, 0, 0.07) !important;
+  border: 1px solid #ecebed !important;
+  border-radius: 6px !important;
+  max-width: 265px;
+}
+.fontBold {
+  font-weight: 600 !important;
+}
+.fontCustom {
+  font-family: $fontFamily !important;
+}
+.searchBtnContainer {
+  align-self: flex-end;
+}
+
+.statusContainer{
+  text-align: end;
+  
+  .cta {
+    color: #5064E2 !important;
+    border: none !important;
+    cursor: pointer !important;
+    margin: 0 10px !important;
+    outline: none !important;
+    padding: 10px 20px !important;
+    font-size: 15px !important;
+    min-width: 97px !important;
+  }
+}
+
+.customerWrapper {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  padding: 0px;
+  justify-content: space-between;
+
+  a {
+    min-width: 50% !important;
+  }
+}
+
+.kycLabel {
+  width: fit-content;
+  min-width: fit-content;
+  padding: 4px 8px;
+  color: #fff;
+  font-size: 11px;
+  border-radius: 3px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.kycDone {
+  background: #27af60;
+}
+
+.kycPending {
+  background: #ffcc5b;
+}
+
+@media (min-width: 1280px) {
+  .searchBtnContainer {
+    margin-top: 0 !important;
+  }
+}
+.statusesBtn {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px !important;
+  color: #212529;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.cardCustoms {
+  background-color: #f3f4ff !important;
+  border-radius: 6px !important;
+  box-shadow: none !important;
+  margin: 0px 10px 10px 0px;
+}
+
+.cardCustomSpacing {
+  width: 20%;
+}
+
+.cardCustomHeading {
+  margin-bottom: 14px !important;
+  font-size: 16px !important;
+  line-height: 20px !important;
+  font-weight: bold !important;
+  color: #212529 !important;
+}
+
+.cardCustomSubValue {
+  font-weight: bold !important;
+  font-size: 17px !important;
+  color: #212529 !important;
+  line-height: 20px !important;
+}
+
+.cardCustomSubheading {
+  color: #212529 !important;
+  font-weight: normal !important;
+  font-size: 15px !important;
+  line-height: 20px !important;
+}
+
+.cardContainer {
+  padding: 10px !important;
+}
+
+.statusesContainerNone {
+  display: grid;
+  height: 0px;
+  overflow-y: hidden;
+  grid-column-gap: 0px;
+  grid-template-columns: repeat(5, 1fr);
+  transition: 0.3s all ease;
+}
+
+.statusesContainer {
+  display: grid;
+  height: 210px;
+  overflow-y: auto;
+  grid-column-gap: 0px;
+  grid-template-columns: repeat(5, 1fr);
+  transition: 0.3s all ease;
+}
+
+.statusesBtnIcon1 {
+  transform: rotate(180deg);
+  transition: 0.3s all ease !important;
+}
+
+.statusesBtnIcon2 {
+  transform: rotate(0deg);
+  transition: 0.3s all ease !important;
+}

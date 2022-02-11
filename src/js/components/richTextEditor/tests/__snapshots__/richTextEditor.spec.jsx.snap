@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/RichTextEditor should render with props 1`] = `
+<Suspense
+  fallback={
+    <div>
+      Loading...
+    </div>
+  }
+  label="Label"
+  onValueChange={[MockFunction]}
+  propValue="<p>Text Value</p>"
+>
+  <lazy
+    label="Label"
+    onValueChange={[MockFunction]}
+    propValue="<p>Text Value</p>"
+  />
+</Suspense>
+`;

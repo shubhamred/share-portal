@@ -1,0 +1,918 @@
+{
+    "data": {
+        "id": "401d4d0c-2d3d-4954-ac9c-82bdd9e74cd0",
+        "name": "Standard Configuration",
+        "version": "1",
+        "config": {
+            "brand": {
+                "label": "Brand",
+                "fields": {
+                    "website": {
+                        "meta": {
+                            "ui": {
+                                "component": "TextBox"
+                            }
+                        },
+                        "label": "Website",
+                        "fieldType": "normal",
+                        "valueType": "string"
+                    },
+                    "founders": {
+                        "meta": {
+                            "ui": {
+                                "component": "TextArea"
+                            },
+                            "validation": {
+                                "maxLength": 1000,
+                                "minLength": 10
+                            }
+                        },
+                        "label": "Founders",
+                        "fieldType": "normal",
+                        "valueType": "string"
+                    },
+                    "report": {
+                        "label": "Report",
+                        "valueType": "string",
+                        "fieldType": "normal",
+                        "meta": {
+                            "ui": {
+                                "component": "FileUpload"
+                            },
+                            "fileUploadInfo": {
+                                "docType": "REPORT",
+                                "docCategory": "DEAL_REPORT",
+                                "resourceType": "DEAL"
+                            },
+                            "validation": {
+                                "supportedContentTypes": [
+                                    "application/pdf"
+                                ],
+                                "maxFileSize": 10
+                            }
+                        }
+                    },
+                "brandNote": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 1000,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Brand Note",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "geography": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 500,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Geography",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "foundedYear": {
+                    "meta": {
+                        "ui": {
+                            "component": "NumberField"
+                        },
+                        "validation": {
+                            "min": 1990
+                        }
+                    },
+                    "label": "Founded year",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "noOfOutlets": {
+                    "meta": {
+                        "ui": {
+                            "component": "NumberField"
+                        },
+                        "validation": {
+                            "max": 500,
+                            "min": 5
+                        }
+                    },
+                    "label": "# of Outlets",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "keyOfferings": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 500,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Key Offerings",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "expansionPlans": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 500,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Expansion plans",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                }
+            }
+        },
+        "product": {
+            "label": "Product",
+            "fields": {
+                "irr": {
+                    "meta": {
+                        "ui": {
+                            "component": "PercentageField"
+                        },
+                        "validation": {
+                            "max": 50,
+                            "min": 10
+                        }
+                    },
+                    "label": "IRR",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "dealTenure": {
+                    "label": "Deal Tenure",
+                    "fieldType": "group",
+                    "subFields": {
+                        "tenureType": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "Years",
+                                    "Months",
+                                    "Days"
+                                ]
+                            },
+                            "valueType": "string"
+                        },
+                        "tenureValue": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        }
+                    },
+                    "valueType": "object"
+                },
+                "minimumIrr": {
+                    "meta": {
+                        "ui": {
+                            "component": "PercentageField"
+                        },
+                        "validation": {
+                            "max": 50,
+                            "min": 5
+                        }
+                    },
+                    "label": "Minimum IRR",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "productNote": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 500,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Product Note",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                }
+            }
+        },
+        "project": {
+            "label": "Project",
+            "fields": {
+                "founders": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 100,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Founders",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "location": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextBox"
+                        },
+                        "validation": {
+                            "maxLength": 50,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Location",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "projectNote": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 1000,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Project Note",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "selfFunding": {
+                    "label": "Self-funding",
+                    "fieldType": "group",
+                    "subFields": {
+                        "unit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "L",
+                                    "MM",
+                                    "Cr",
+                                    "Th"
+                                ]
+                            },
+                            "valueType": "string"
+                        },
+                        "amount": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "currency": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "INR",
+                                    "USD",
+                                    "SGD",
+                                    "JPY",
+                                    "EUR",
+                                    "GBP"
+                                ]
+                            },
+                            "valueType": "string"
+                        }
+                    },
+                    "valueType": "object"
+                },
+                "keyMilestone": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 1000,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Key Milestone",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                }
+            }
+        },
+        "overview": {
+            "label": "Overview",
+            "fields": {
+                "product": {
+                    "meta": {
+                        "ui": {
+                            "component": "Dropdown"
+                        },
+                        "possibleValues": [
+                            "RBF",
+                            "Working Capital"
+                        ]
+                    },
+                    "label": "Product",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "dealValue": {
+                    "label": "Deal value",
+                    "fieldType": "group",
+                    "subFields": {
+                        "unit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "L",
+                                    "MM",
+                                    "Cr",
+                                    "Th"
+                                ]
+                            },
+                            "valueType": "string"
+                        },
+                        "amount": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "currency": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "INR",
+                                    "USD",
+                                    "SGD",
+                                    "JPY",
+                                    "EUR",
+                                    "GBP"
+                                ]
+                            },
+                            "valueType": "string"
+                        }
+                    },
+                    "valueType": "object"
+                },
+                "commitment": {
+                    "label": "Commitment",
+                    "fieldType": "group",
+                    "subFields": {
+                        "unit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "L",
+                                    "MM",
+                                    "Cr",
+                                    "Th"
+                                ]
+                            },
+                            "valueType": "string"
+                        },
+                        "amount": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "currency": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "INR",
+                                    "USD",
+                                    "SGD",
+                                    "JPY",
+                                    "EUR",
+                                    "GBP"
+                                ]
+                            },
+                            "valueType": "string"
+                        }
+                    },
+                    "valueType": "object"
+                },
+                "fundsUsage": {
+                    "meta": {
+                        "ui": {
+                            "component": "Dropdown"
+                        },
+                        "possibleValues": [
+                            "New Outlet",
+                            "Marketing",
+                            "Inventory"
+                        ]
+                    },
+                    "label": "Funds Usage",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "dealHighlight": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 500,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Deal Highlight",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "patronRewards": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 500,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Patron Rewards",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "businessCategory": {
+                    "meta": {
+                        "ui": {
+                            "component": "Dropdown"
+                        },
+                        "possibleValues": [
+                            "New Outlet",
+                            "Marketing",
+                            "Inventory"
+                        ]
+                    },
+                    "label": "Business Category",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "interestedPatrons": {
+                    "meta": {
+                        "ui": {
+                            "component": "NumberField"
+                        },
+                        "validation": {
+                            "min": 1
+                        }
+                    },
+                    "label": "Interested Patrons",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                }
+            }
+        },
+        "assessment": {
+            "label": "Assessment",
+            "fields": {
+                "dscr": {
+                    "meta": {
+                        "ui": {
+                            "component": "PercentageField"
+                        },
+                        "validation": {
+                            "max": 500,
+                            "min": 10
+                        }
+                    },
+                    "label": "DSCR",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "klubScore": {
+                    "meta": {
+                        "ui": {
+                            "component": "PercentageField"
+                        },
+                        "validation": {
+                            "max": 100,
+                            "min": 0
+                        }
+                    },
+                    "label": "Klub Score",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "quickRatio": {
+                    "meta": {
+                        "ui": {
+                            "component": "PercentageField"
+                        },
+                        "validation": {
+                            "max": 500,
+                            "min": 10
+                        }
+                    },
+                    "label": "Quick Ratio",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "keyConcerns": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 100,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Key Concerns",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "currentRatio": {
+                    "meta": {
+                        "ui": {
+                            "component": "PercentageField"
+                        },
+                        "validation": {
+                            "max": 500,
+                            "min": 10
+                        }
+                    },
+                    "label": "Current Ratio",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "keyMitigants": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 1000,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Key Mitigants",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "assessmentNote": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 1000,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Assessment Note",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                }
+            }
+        },
+        "performance": {
+            "label": "Performance",
+            "fields": {
+                "keyConcerns": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextBox"
+                        },
+                        "validation": {
+                            "maxLength": 100,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Key Concerns",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "totalAssets": {
+                    "label": "Total Assets",
+                    "fieldType": "group",
+                    "subFields": {
+                        "unit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "L",
+                                    "MM",
+                                    "Cr",
+                                    "Th"
+                                ]
+                            },
+                            "valueType": "string"
+                        },
+                        "year": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "amount": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "currency": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "INR",
+                                    "USD",
+                                    "SGD",
+                                    "JPY",
+                                    "EUR",
+                                    "GBP"
+                                ]
+                            },
+                            "valueType": "string"
+                        }
+                    },
+                    "valueType": "array"
+                },
+                "keyMitigants": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 1000,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Key Mitigants",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "turnoverTrend": {
+                    "meta": {
+                        "ui": {
+                            "component": "PercentageField"
+                        },
+                        "validation": {
+                            "max": 100,
+                            "min": -500
+                        }
+                    },
+                    "label": "Turnover Trend",
+                    "fieldType": "normal",
+                    "valueType": "number"
+                },
+                "assessmentNote": {
+                    "meta": {
+                        "ui": {
+                            "component": "TextArea"
+                        },
+                        "validation": {
+                            "maxLength": 1000,
+                            "minLength": 10
+                        }
+                    },
+                    "label": "Assessment Note",
+                    "fieldType": "normal",
+                    "valueType": "string"
+                },
+                "auditedTurnover": {
+                    "label": "Audited Turnover",
+                    "fieldType": "group",
+                    "subFields": {
+                        "unit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "L",
+                                    "MM",
+                                    "Cr",
+                                    "Th"
+                                ]
+                            },
+                            "valueType": "string"
+                        },
+                        "year": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "amount": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "currency": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "INR",
+                                    "USD",
+                                    "SGD",
+                                    "JPY",
+                                    "EUR",
+                                    "GBP"
+                                ]
+                            },
+                            "valueType": "string"
+                        }
+                    },
+                    "valueType": "array"
+                },
+                "netProfitMargin": {
+                    "label": "Net Profit Margin",
+                    "fieldType": "group",
+                    "subFields": {
+                        "year": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "profit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "PercentageField"
+                                },
+                                "validation": {
+                                    "max": 100,
+                                    "min": -500
+                                }
+                            },
+                            "valueType": "number"
+                        }
+                    },
+                    "valueType": "array"
+                },
+                "grossProfitMargin": {
+                    "label": "Gross Profit Margin",
+                    "fieldType": "group",
+                    "subFields": {
+                        "unit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "PercentageField"
+                                },
+                                "validation": {
+                                    "max": 100,
+                                    "min": -500
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "year": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        }
+                    },
+                    "valueType": "array"
+                },
+                "projectedTurnover": {
+                    "label": "Projected Turnover",
+                    "fieldType": "group",
+                    "subFields": {
+                        "unit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "L",
+                                    "MM",
+                                    "Cr",
+                                    "Th"
+                                ]
+                            },
+                            "valueType": "string"
+                        },
+                        "year": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "amount": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "currency": {
+                            "meta": {
+                                "ui": {
+                                    "component": "Dropdown"
+                                },
+                                "possibleValues": [
+                                    "INR",
+                                    "USD",
+                                    "SGD",
+                                    "JPY",
+                                    "EUR",
+                                    "GBP"
+                                ]
+                            },
+                            "valueType": "string"
+                        }
+                    },
+                    "valueType": "array"
+                },
+                "operatingProfitMargin": {
+                    "label": "Operating Profit Margin",
+                    "fieldType": "group",
+                    "subFields": {
+                        "year": {
+                            "meta": {
+                                "ui": {
+                                    "component": "NumberField"
+                                }
+                            },
+                            "valueType": "number"
+                        },
+                        "profit": {
+                            "meta": {
+                                "ui": {
+                                    "component": "PercentageField"
+                                },
+                                "validation": {
+                                    "max": 100,
+                                    "min": -500
+                                }
+                            },
+                            "valueType": "number"
+                        }
+                    },
+                    "valueType": "array"
+                }
+            }
+        }
+    },
+    "sector": "default",
+    "isArchived": false,
+    "createdAt": "2020-01-17T14:49:45.161Z",
+    "updatedAt": "2020-01-17T14:49:45.161Z"
+},
+"errors": null,
+"message": "OK",
+"meta": {
+    "length": 1,
+    "took": 126,
+    "total": 1
+}
+}

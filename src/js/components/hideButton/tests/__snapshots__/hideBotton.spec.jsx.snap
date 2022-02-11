@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/dropDown Renders default options 1`] = `
+<div
+  className="hideBtn"
+  onClick={[Function]}
+  role="presentation"
+>
+  <WithStyles(ForwardRef(Switch))
+    checked={false}
+    color="primary"
+    inputProps={
+      Object {
+        "aria-label": "primary checkbox",
+      }
+    }
+    name="checkedA"
+    onChange={[Function]}
+    size="small"
+  />
+  <div
+    className="hideSection"
+  >
+    Hidden
+  </div>
+</div>
+`;

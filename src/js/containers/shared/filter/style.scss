@@ -1,0 +1,42 @@
+.filterWrapper {
+  padding: 24px;
+}
+
+.filter {
+  margin-bottom: 30px;
+  .name {
+    margin: 0px;
+    margin-bottom: 10px;
+  }
+  .search {
+    margin-bottom: 10px;
+  }
+}
+
+.filterSearch {
+  input {
+    border-radius: 3px;
+    border: 1px solid rgba(198, 209, 221, 0.5);
+    box-shadow: none;
+    padding: 10px;
+  }
+  div {
+    &::before,
+    &::after {
+      content: none !important;
+    }
+  }
+}
+
+.actionWrapper {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.cancelLink{
+    margin-right: 26px;
+    cursor: pointer;
+}

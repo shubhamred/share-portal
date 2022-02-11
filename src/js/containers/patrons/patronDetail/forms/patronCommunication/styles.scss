@@ -1,0 +1,15 @@
+@import "app/theme/variables.scss";
+
+.container {
+    width: 100%;
+    font-family: $fontFamily;
+    background-color: white;
+}
+.tabContainer {
+    padding: 0 0 30px;
+}
+.content {
+    font-family: $fontFamily;
+    font-size: 16px;
+    font-weight: 600;
+}

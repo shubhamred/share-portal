@@ -1,0 +1,79 @@
+@import "src/js/theme/variables";
+
+.container {
+  @media only screen and (max-width: 700px) {
+    width: 100% !important;
+  }
+}
+
+.bankingContainer {
+  margin-bottom: 31px !important;
+  width: 70% !important;
+  @media only screen and (max-width: 830px) {
+    width: 100% !important;
+  }
+}
+.category {
+  font-family: $titleFontFamily;
+  font-weight: $titleFontWeight;
+  font-size: $titleFontSize;
+  line-height: $titleLineHeight;
+  color: $titleColor;
+}
+.documentLabel {
+  font-family: $fontFamily;
+  font-size: $textFontSize;
+  line-height: $textLineHeight;
+  color: $textColor;
+  align-items: center;
+  display: flex;
+}
+.statusText {
+  font-family: $fontFamily;
+  font-size: $textFontSize;
+  line-height: $textLineHeight;
+  color: #000000;
+  position: relative;
+  align-items: center;
+}
+.multipleDoc {
+  margin-bottom: 2% !important;
+}
+.value {
+  font-size: 14px;
+  color: $textColor;
+  align-items: center;
+  line-height: 17px;
+  display: flex;
+}
+
+.title {
+  font-size: 14px;
+  line-height: 17px;
+  color: $textColor;
+  align-items: center;
+  display: flex;
+  color: #164363;
+  margin-bottom: 16px !important;
+}
+.uploadedFile {
+  //text-overflow: ellipsis;
+  //white-space: nowrap;
+  overflow: hidden;
+  font-size: 14px;
+  color: #CAD1DF;
+  height: fit-content !important;
+}
+.uploadButton {
+  height: fit-content !important;
+}
+.uploadContainer {
+  width: 70% !important;
+  align-items: center;
+  @media only screen and (max-width: 830px) {
+    width: 100% !important;
+  }
+}
+.uploadedDocContainer {
+  margin-top: 16px !important;
+}

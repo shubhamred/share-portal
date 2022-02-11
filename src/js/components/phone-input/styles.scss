@@ -1,0 +1,70 @@
+@import "src/js/theme/variables";
+
+@mixin default {
+  width: 90%;
+  padding: 2px 0;
+  font-size: 18px;
+  outline: none;
+  background-color: white;
+  border-bottom: 1px solid #acacac;
+  color: black;
+}
+
+.inputWrapper {
+  background-color: white;
+  display: flex;
+}
+
+.inputWrapper input {
+  border: none;
+  border-bottom: 1px solid #5e636852;
+}
+
+.inputWrapper input:focus {
+  outline: none;
+}
+
+
+::placeholder {
+  // color: #aaaaaa;
+  color: #707070;
+
+}
+.wrapper {
+  align-items: baseline;
+}
+
+.warning {
+  color: red;
+  text-align: left !important;
+  margin: 10px 0 !important;
+}
+
+input[type="phone"] {
+  height: 30px;
+  border-bottom: none;
+  font-family: $fontFamily;
+}
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  font-family: $fontFamily;
+  font-size: 14px;
+  line-height: 17px;
+  color: #164363;
+}
+
+.input {
+  @include default;
+  border-bottom: 1px solid #acacac;
+  color: black;
+
+}
+
+.disabled{
+  @include default;
+  opacity: 0.35;
+}

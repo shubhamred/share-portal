@@ -1,0 +1,44 @@
+@import 'src/js/theme/variables';
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-size: 14px;
+  line-height: 17px;
+  color: #164363;
+  font-weight: 400;
+  font-family: $fontFamily;
+  display: flex;
+  width: 90% !important;
+}
+.subFieldContainer {
+  width: 90% !important;
+}
+.fieldContainer {
+  // width: 90% !important;
+  // margin-bottom: 60px !important;
+  width: 100%;
+  padding: 16px;
+}
+.buttons{
+  display: flex;
+  word-break: initial;
+  padding: 0 2%;
+}
+
+.mainLabel {
+  font-size: 18px;
+}
+
+.addField {
+  cursor: pointer;
+  color: #1518af;
+}
+.addField:hover {
+  text-decoration: underline;
+}
+.sectionMargin {
+  margin-bottom: 15px;
+  margin-top: 20px;
+}

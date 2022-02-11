@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Tab Selctor Renders default options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  container={true}
+  style={
+    Object {
+      "marginBottom": "30px",
+    }
+  }
+  wrap="nowrap"
+/>
+`;
+
+exports[`components/Tab Selctor Renders with Props 1`] = `
+<WithStyles(ForwardRef(Grid))
+  container={true}
+  style={
+    Object {
+      "marginBottom": "30px",
+    }
+  }
+  wrap="nowrap"
+>
+  <WithStyles(ForwardRef(Grid))
+    container={true}
+    item={true}
+    key="dummyId1"
+    xs={2}
+  >
+    <WithStyles(ForwardRef(ButtonBase))
+      className="selectedTab"
+      onClick={[Function]}
+      styles="selectedTab"
+    >
+      Dummy 1
+    </WithStyles(ForwardRef(ButtonBase))>
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(Grid))
+    container={true}
+    item={true}
+    key="dummyId2"
+    xs={2}
+  >
+    <WithStyles(ForwardRef(ButtonBase))
+      className="normalTab"
+      onClick={[Function]}
+      styles="selectedTab"
+    >
+      Dummy 2
+    </WithStyles(ForwardRef(ButtonBase))>
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;

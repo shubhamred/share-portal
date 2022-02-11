@@ -1,0 +1,44 @@
+@import "src/js/theme/variables";
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  font-family: $fontFamily;
+  display: flex;
+  font-size: 14px;
+  line-height: 17px;
+  color: $labelColor;
+}
+.container {
+  align-items: baseline;
+  display: flex;
+  flex-grow: 1;
+  font-weight: $fontFamily;
+}
+
+.disabled{
+  max-width: 90% !important;
+}
+
+.dateWrapper {
+  max-width: 90% !important;
+}
+.dateWrapper p {
+  display: none !important;
+}
+.removeHelper p{
+  display: none !important;
+}
+.inputBorder:before {
+  //border-bottom: 1px solid #acacac;
+  border-bottom-style: solid !important;
+  border-bottom-color: #acacac !important;
+}
+.warning {
+  color: red;
+  text-align: left;
+  font-size: 14px;
+  margin: 10px 0 !important;
+}

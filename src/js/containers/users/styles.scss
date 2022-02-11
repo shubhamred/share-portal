@@ -1,0 +1,22 @@
+.fieldItem {
+  margin-bottom: 20px !important;
+}
+
+.w100 {
+  width: 100% !important;
+}
+
+.mr-2 {
+  margin-right: 1.5rem !important;
+}
+
+.w100 input[type=tel] {
+  border: none;
+  padding: 10px;
+  border-bottom: 1px solid rgba(33, 37, 25, 0.6);
+}
+
+.w100.PhoneInput--focus,.w100 input[type=tel]:focus {
+  border: none;
+  border-bottom: 1px solid #000;
+}

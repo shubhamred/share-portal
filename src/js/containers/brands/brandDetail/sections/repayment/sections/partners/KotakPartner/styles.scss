@@ -1,0 +1,97 @@
+@import "src/js/theme/variables";
+
+.addButton {
+  background: #1518AF !important;
+}
+
+.fieldRowContainer {
+  padding: 16px !important;
+}
+
+.headerHeading {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.headerHeading2 {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.accountContainer {
+  padding: 6px 0px;
+}
+
+.labelContainer {
+  padding: 6px 0px;
+  color: $labelColor;
+}
+
+.pb20 {
+  padding-bottom: 20px;
+}
+
+.p15 {
+  padding: 15px 0px;
+}
+
+.borderStyle{
+  margin: 14px 0px !important;
+  border-bottom: 1.2px solid #21252980;
+}
+
+.editAccount {
+  color: $primaryColor;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.revenueSources {
+  display: flex;
+}
+
+.revenueSourceContainer {
+  font-size: 12px;
+  color: $primaryColor;
+}
+
+.revenueSource {
+  background-color: #E5E7FA;
+  border-radius: 4px;
+  padding: 7px;
+  display: flex;
+  justify-content: center;
+}
+
+.applicationCode {
+  color: $primaryColor;
+}
+
+.seeMoreButton {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.fieldRowContainer {
+  padding: 16px !important;
+}
+
+.p16 {
+  padding: 0px 16px;
+}
+
+.splitPercentage {
+  font-weight: 600;
+}
+
+.splitPercentageContainer {
+  font-size: 12px;
+  color: $primaryColor;
+  background-color: #E5E7FA;
+  border-radius: 4px;
+  padding: 7px;
+  margin-right: 10px;
+}

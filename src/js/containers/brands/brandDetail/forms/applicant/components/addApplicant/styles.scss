@@ -1,0 +1,36 @@
+@import "app/theme/variables.scss";
+
+.formLabelStyle {
+  margin: 20px 0 !important;
+}
+.form {
+  margin: 0 auto;
+}
+.inviteForm {
+  padding: 30px;
+}
+.headerStyle {
+  font-size: 25px !important;
+  line-height: 24px !important;
+  font-weight: Bold !important;
+  font-family: $fontFamily !important;
+  letter-spacing: 0;
+  color: #000000;
+  opacity: 1;
+}
+
+.buttonStyle{
+  // padding: 7% 0 3%;
+  text-align: center;
+  padding-top: 12%;
+}
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-size: 18px;
+  font-weight: 100;
+  font-family: $fontFamily;
+  display: flex;
+}

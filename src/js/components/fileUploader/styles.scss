@@ -1,0 +1,10 @@
+@import "src/js/theme/variables";
+
+.uploadBtn {
+  text-transform: none !important;
+  font-family: $fontFamily !important;
+  font-weight: 600 !important;
+}
+.uploadBtnIcon {
+  color: rgb(80, 100, 226);
+}

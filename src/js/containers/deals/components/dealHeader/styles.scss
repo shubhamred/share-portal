@@ -1,0 +1,31 @@
+@import "app/theme/variables.scss";
+
+.header {
+  font-family: $fontFamily;
+  font-size: $headerFontSize;
+  font-weight: bold;
+}
+.tabs {
+  display: flex;
+  @media only screen and (max-width: 1099px) {
+    padding: 3% 0;
+  }
+}
+.heading {
+  font-family: $fontFamily;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.content {
+    font-family: $fontFamily;
+    font-size: 16px;
+    font-weight: 600;
+}
+.statusWrapper {
+  display: flex;
+  justify-content: center;
+}
+.currentStatus {
+  padding: 0 10px 0 0;
+}

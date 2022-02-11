@@ -1,0 +1,86 @@
+@import 'app/theme/variables.scss';
+.wrapper {
+  display: flex;
+  padding: 0px;
+  align-items: baseline;
+}
+.inputRoot {
+  // margin: 0 10px;
+font-family: $fontFamily !important;
+font-size: $textFontSize !important;
+line-height: $textLineHeight !important;
+color: $textColor !important;
+}
+.iconStyle {
+  position: absolute;
+  bottom: 10px;
+  left: 88%
+}
+.formControlRoot {
+  border-bottom: 1px solid #000000 !important;
+  width: 94%;
+}
+.formControlRoot :before {
+  content: none;
+}
+.title {
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  color: #000 !important;
+  padding: 10px !important;
+}
+.root {
+  display: flex;
+  margin: auto;
+  padding: 0 0 20px;
+  background-color: #ffffff
+}
+.dropdownStyle {
+  top: 150px !important;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px 0 rgba(70, 89, 138, 0.1)
+
+}
+.divider {
+  margin: 0 15px
+}
+.MenuItem {
+  font-size: 0.85rem;
+  &:focus {
+    background-color: #f2f9ff
+  }
+}
+.MenuDivider {
+  border-bottom: 1px solid #d8d8d8
+}
+.MenuSelected {
+  background-color: #f2f9ff !important
+}
+.inputOther {
+  margin-top: 23px !important;
+}
+.textRoot {
+  padding: 10px;
+  width: 100%;
+}
+.warning {
+  color: red;
+  text-align: left;
+  margin: 10px !important;
+}
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-size: 14px;
+  line-height: 17px;
+  color: #164363;
+  font-weight: 400;
+}
+.component {
+  padding: 3px 0;
+}

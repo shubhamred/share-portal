@@ -1,0 +1,134 @@
+@import 'src/js/theme/variables';
+// .mainDetailsWrapper {
+//   padding: 1% !important;
+//   background-color: white !important;
+//   width: 50% !important;
+//   height: fit-content;
+//   align-items: center;
+// }
+
+.mainDetailsWrapper {
+  // padding: 16px !important;
+  background-color: white !important;
+  height: fit-content;
+  align-items: center;
+}
+
+// @media only screen and (max-width: 1200px) {
+//   .mainDetailsWrapper {
+//     width: 70% !important;
+//   }
+// }
+.childDetailsWrapper {
+  background-color: white !important;
+}
+.contentWrapper {
+  // padding: 0px 16px !important;
+  overflow-y: hidden;
+}
+.statusWrapper {
+  // display: flex;
+  // justify-content: center;
+  font-size: 16px;
+}
+.wrapper {
+  padding-top: 2px;
+}
+.formContainer {
+  width: 100% !important;
+  background-color: white !important;
+}
+.remarkContainer {
+  width: 19% !important;
+  background-color: white !important;
+}
+.editIcon {
+  padding-left: 10px;
+}
+.headerWraper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+.remarkText {
+  color: #164363;
+  text-shadow: 0px 7px 11px #00000029;
+  margin-left: 10px;
+}
+
+.buttons {
+  display: flex;
+  @media only screen and (max-width: 1099px) {
+    padding: 3% 0;
+  }
+}
+
+.list {
+  display: flex;
+}
+
+.mb10 {
+  margin-bottom: 10px !important;
+}
+
+.fieldItem {
+  margin-bottom: 15px !important;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.invalidGst {
+  font-size: 14px;
+  color: #f44336;
+}
+
+.fontWeight600 {
+  font-weight: 600 !important;
+}
+
+.dialogContainer{
+  padding: 20px 0px;
+}
+
+.mb20 {
+  margin-bottom: 20px !important;
+}
+
+.gstContainer{
+  margin-top: 20px;
+}
+
+.rowContainer{
+  margin-bottom: 24px !important;
+}
+
+.iconButton{
+  cursor: pointer;
+  padding-left: 10px;
+}
+
+.lable {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  color: #212519b3;
+  padding-bottom: 14px;
+}
+
+.textLable {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 18px;
+  color: $blackColor;
+}
+
+.linkText {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+  color: $primaryColor;
+  cursor: pointer;
+}

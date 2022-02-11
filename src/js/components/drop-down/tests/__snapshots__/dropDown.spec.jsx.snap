@@ -1,0 +1,291 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/dropDown Renders default options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  className="wrapper"
+  container={true}
+  direction="row"
+>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    sm={12}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Grid))
+      className="component"
+      item={true}
+      xs={12}
+    >
+      <WithStyles(ForwardRef(FormControl))
+        className="margin"
+        classes={
+          Object {
+            "root": "formControlRoot",
+          }
+        }
+      >
+        <WithStyles(ForwardRef(Select))
+          classes={
+            Object {
+              "select": "selectFocus",
+            }
+          }
+          disabled={false}
+          displayEmpty=""
+          input={
+            <ForwardRef(WithStyles(ForwardRef(InputBase)))
+              classes={
+                Object {
+                  "focused": "focusedSelect",
+                  "root": "inputRoot",
+                }
+              }
+            />
+          }
+          inputProps={
+            Object {
+              "name": undefined,
+            }
+          }
+          onChange={[Function]}
+          value=""
+        />
+      </WithStyles(ForwardRef(FormControl))>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;
+
+exports[`components/dropDown Renders with disabled options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  className="wrapper"
+  container={true}
+  direction="row"
+>
+  <WithStyles(ForwardRef(Grid))
+    className="label"
+    item={true}
+    sm={12}
+    xs={12}
+  >
+    Dummy
+    <div
+      className="buttons"
+    />
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    sm={12}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Grid))
+      className="component"
+      item={true}
+      xs={12}
+    >
+      <WithStyles(ForwardRef(FormControl))
+        className="margin"
+        classes={
+          Object {
+            "root": "disabled",
+          }
+        }
+      >
+        <WithStyles(ForwardRef(Select))
+          classes={
+            Object {
+              "select": "selectFocus",
+            }
+          }
+          disabled={true}
+          displayEmpty="Placeholder"
+          input={
+            <ForwardRef(WithStyles(ForwardRef(InputBase)))
+              classes={
+                Object {
+                  "focused": "focusedSelect",
+                  "root": "inputRoot",
+                }
+              }
+            />
+          }
+          inputProps={
+            Object {
+              "name": undefined,
+            }
+          }
+          onChange={[Function]}
+          value="Other"
+        >
+          <WithStyles(ForwardRef(MenuItem))
+            className="MenuDivider"
+            disabled={true}
+            styles={
+              Object {
+                "root": "MenuItem",
+                "selected": "MenuSelected",
+              }
+            }
+            value=""
+          >
+            Placeholder
+          </WithStyles(ForwardRef(MenuItem))>
+          <WithStyles(ForwardRef(MenuItem))
+            className="MenuItemValue"
+            key="select-undefined-test1"
+            styles={
+              Object {
+                "root": "MenuItem",
+                "selected": "MenuSelected",
+              }
+            }
+            value="test1"
+          >
+            test1
+          </WithStyles(ForwardRef(MenuItem))>
+        </WithStyles(ForwardRef(Select))>
+      </WithStyles(ForwardRef(FormControl))>
+    </WithStyles(ForwardRef(Grid))>
+    <WithStyles(ForwardRef(Grid))
+      className="inputOther"
+      item={true}
+      sm={12}
+      xs={12}
+    >
+      <Input
+        autoFocus={false}
+        clearButton={false}
+        closeButton={false}
+        disabled={true}
+        hideButton={false}
+        input={
+          Object {
+            "onChange": [Function],
+            "value": "",
+          }
+        }
+        inputType="text"
+        isAmountFormat={false}
+        isFieldValue={false}
+        label=""
+        max={10000000000000000}
+        maxLength={1000}
+        meta={
+          Object {
+            "error": "",
+            "submitFailed": false,
+          }
+        }
+        min={0}
+        name=""
+        onClearButtonClick={[Function]}
+        onCloseButtonClick={[Function]}
+        onHideBtnClick={[Function]}
+        onValueChange={[Function]}
+        placeholder=""
+        propValue=""
+        row={false}
+        searchButton={false}
+        selected=""
+        step={1}
+        underLineDisable={true}
+        visible={false}
+      />
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;
+
+exports[`components/dropDown Renders with options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  className="wrapper"
+  container={true}
+  direction="row"
+>
+  <WithStyles(ForwardRef(Grid))
+    className="label"
+    item={true}
+    sm={12}
+    xs={12}
+  >
+    Dummy
+    <div
+      className="buttons"
+    />
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    sm={12}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Grid))
+      className="component"
+      item={true}
+      xs={12}
+    >
+      <WithStyles(ForwardRef(FormControl))
+        className="margin"
+        classes={
+          Object {
+            "root": "formControlRoot",
+          }
+        }
+      >
+        <WithStyles(ForwardRef(Select))
+          classes={
+            Object {
+              "select": "selectFocus",
+            }
+          }
+          disabled={false}
+          displayEmpty="Placeholder"
+          input={
+            <ForwardRef(WithStyles(ForwardRef(InputBase)))
+              classes={
+                Object {
+                  "focused": "focusedSelect",
+                  "root": "inputRoot",
+                }
+              }
+            />
+          }
+          inputProps={
+            Object {
+              "name": undefined,
+            }
+          }
+          onChange={[Function]}
+          value=""
+        >
+          <WithStyles(ForwardRef(MenuItem))
+            className="MenuDivider"
+            disabled={true}
+            styles={
+              Object {
+                "root": "MenuItem",
+                "selected": "MenuSelected",
+              }
+            }
+            value=""
+          >
+            Placeholder
+          </WithStyles(ForwardRef(MenuItem))>
+          <WithStyles(ForwardRef(MenuItem))
+            className="MenuItemValue"
+            key="select-undefined-test1"
+            styles={
+              Object {
+                "root": "MenuItem",
+                "selected": "MenuSelected",
+              }
+            }
+            value="test1"
+          >
+            test1
+          </WithStyles(ForwardRef(MenuItem))>
+        </WithStyles(ForwardRef(Select))>
+      </WithStyles(ForwardRef(FormControl))>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;

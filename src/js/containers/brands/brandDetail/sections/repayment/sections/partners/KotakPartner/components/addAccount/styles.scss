@@ -1,0 +1,47 @@
+@import "src/js/theme/variables";
+
+.addPartnerForm {
+    padding: 15px 0px;
+}
+
+.form {
+    margin: 0 auto;
+    width: 100%;
+  }
+
+.label {
+    text-align: left;
+    word-break: break-all;
+    padding: 4px 0 16px;
+    font-weight: 400;
+    font-family: $fontFamily;
+    display: flex;
+    font-size: 14px;
+    line-height: 17px;
+    color: #164363;
+}
+
+.formLabelStyle {
+    // margin-top: 15px !important;
+}
+    
+.childDivWidth > div{
+    width: 100% !important;
+}
+
+.fieldRowContainer {
+    padding: 10px 0px;
+}
+
+.buttonStyle{
+    justify-content: flex-end;
+    padding: 7% 0 3%;
+    text-align: right;
+}
+
+.headerHeading3 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: $labelColor;
+}

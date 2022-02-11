@@ -1,0 +1,29 @@
+@import "../../theme/variables.scss";
+
+@mixin default {
+  min-width: 97px;
+  // height: 35px;
+  padding: 10px 20px;
+  background-color: $primaryColor;
+  color: #fff;
+  border: none;
+  font-size: 15px;
+  border-radius: 5px;
+  border-color: $primaryColor;
+  border: 1px solid;
+  outline: none;
+  font-family: $fontFamily;
+}
+
+.btn {
+  @include default;
+  &:hover {
+    opacity: 0.9;
+  }
+  cursor: pointer;
+}
+
+.disabled {
+  @include default;
+  opacity: 0.5;
+}

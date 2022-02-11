@@ -1,0 +1,43 @@
+@import 'app/theme/variables.scss';
+
+.appBar {
+  height: 80px;
+  background: transparent linear-gradient(270deg, #4C8ED8 0%, #4556CC 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.headerContainer {
+  padding-right: 60px;
+  padding-left: 40px;
+  align-items: center;
+}
+.tabContainer {
+  align-items: flex-end;
+  height: 100%;
+  margin-left: 7% !important;
+}
+.selectedTab {
+  text-align: left;
+  font-family: $fontFamily;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0;
+  color: #FFFFFF !important;
+  opacity: 1;
+  padding-bottom: 7px;
+  font-weight: bold;
+  padding-bottom: 1% !important;
+  margin: 0 1% !important;
+  border-bottom: 4px solid white !important;
+}
+.tab {
+  text-align: left;
+  font-family: $fontFamily;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0;
+  color: #FFFFFF !important;
+  opacity: 1;
+  padding-bottom: 1% !important;
+  margin: 0 1% !important;
+  border-bottom: 4px solid #4556CC !important;
+}

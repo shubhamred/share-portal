@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "@babel/env",
+    "@babel/react",
+    "@babel/typescript"
+  ],
+  "plugins": [
+    "@babel/transform-runtime",
+    "@babel/proposal-class-properties"
+  ]
+}
+

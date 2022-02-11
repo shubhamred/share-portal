@@ -1,0 +1,186 @@
+@import './theme/variables.scss';
+
+* {
+  font-family: $fontFamily !important;
+}
+
+body {
+  // background-color: #F9F9FD !important;
+  font-family: $fontFamily !important;
+}
+
+.uppy-Dashboard--modal {
+  z-index: 9999 !important;
+}
+
+.MuiTypography-body1 {
+  font-family: $fontFamily !important;
+}
+
+.customH1 {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_light !important;
+  font-size: $fs_96 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_1 !important;
+}
+
+.customH2 {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_light !important;
+  font-size: $fs_60 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_2 !important;
+}
+
+.customH3 {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_regular !important;
+  font-size: $fs_48 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_3 !important;
+}
+
+.customH4 {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_regular !important;
+  font-size: $fs_34 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_6 !important;
+}
+
+.customH5 {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_medium !important;
+  font-size: $fs_24 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_3 !important;
+  color: #212529 !important;
+}
+
+.subheading-main-light {
+  font-family: $fontFamily;
+  font-weight: $f_weight_light !important;
+  font-size: $fs_20 !important;
+  text-transform: $f_case_sentence;
+  letter-spacing: $l_3;
+  margin-bottom: 20px !important;
+}
+
+.subheading-main {
+  font-family: $fontFamily;
+  font-weight: $f_weight_medium !important;
+  font-size: $fs_20 !important;
+  text-transform: $f_case_sentence;
+  letter-spacing: $l_3;
+  margin-bottom: 20px !important;
+  color: #212529 !important
+}
+
+.customH6 {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_medium !important;
+  font-size: $fs_20 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_5 !important;
+  color: #212529 !important;
+}
+
+.customBreadcrumbs {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_light !important;
+  font-size: $fs_16 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_5 !important;
+  color: #212529 !important;
+}
+
+.primaryTitle {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_regular !important;
+  padding-bottom: 6px;
+  font-size: $fs_16 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_5 !important;
+  color: #212529 !important;
+}
+
+.secondaryTitle {
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_light !important;
+  font-size: $fs_14 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_4 !important;
+  color: #212529b3 !important;
+}
+
+.customSubtitle{
+  font-family: $fontFamily !important;
+  font-weight: $f_weight_light !important;
+  font-size: $fs_16 !important;
+  text-transform: $f_case_sentence !important;
+  letter-spacing: $l_4 !important;
+  color: #4959D3 !important;
+}
+
+.custom-body-1 {
+  font-family: $fontFamily;
+  font-weight: $f_weight_regular;
+  font-size: $fs_16;
+  text-transform: $f_case_sentence;
+  letter-spacing: $l_8;
+}
+
+.custom-body-2 {
+  font-family: $fontFamily;
+  font-weight: $f_weight_regular;
+  font-size: $fs_14;
+  text-transform: $f_case_sentence;
+  letter-spacing: $l_6;
+}
+
+.custom-button {
+  font-family: $fontFamily;
+  font-weight: $f_weight_medium;
+  font-size: $fs_14;
+  text-transform: $f_case_capital;
+  letter-spacing: $l_10;
+}
+
+.custom-caption {
+  font-family: $fontFamily;
+  font-weight: $f_weight_regular;
+  font-size: $fs_12;
+  text-transform: $f_case_sentence;
+  letter-spacing: $l_7;
+}
+
+.custom-overline {
+  font-family: $fontFamily;
+  font-weight: $f_weight_regular;
+  font-size: $fs_10;
+  text-transform: $f_case_capital;
+  letter-spacing: $l_9;
+}
+
+.br-radius {
+  border-radius: 6px !important;
+}
+
+@media (max-width: 768px) {
+  .br-radius {
+    border-radius: 4px !important;
+  }
+  .custom-h5{
+    font-size: 20px;
+  }
+  .section-sub-title{
+    font-size: 14px !important;
+  }
+  .subheading-main{
+    font-size: 16px !important;
+  }
+  .multiline-height{
+    line-height: 24px !important;
+  }
+}

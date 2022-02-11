@@ -1,0 +1,40 @@
+.wrapper {
+    padding-top: 2px;
+}
+
+.headerWraper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.mainDetailsWrapper {
+    background-color: white !important;
+    height: fit-content;
+    align-items: center;
+}
+
+.statusWrapper {
+    font-size: 16px;
+}
+
+.addWrapper {
+    display: flex;
+    align-items: center;
+}
+
+.addWrapper svg {
+    font-size: 18px;
+    padding-left: 0;
+    margin-right: 8px;
+}
+
+.editIcon {
+    padding-left: 10px;
+}
+
+.formContainer {
+    width: 100% !important;
+    background-color: white !important;
+}

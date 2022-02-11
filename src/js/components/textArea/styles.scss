@@ -1,0 +1,86 @@
+@import "src/js/theme/variables";
+
+@mixin default {
+  min-height: 30px;
+  width: 100%;
+  // padding: 3px 0;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  font-family: $fontFamily;
+  background-color: white;
+}
+
+.inputWrapper {
+  background-color: white;
+  display: flex;
+  // padding-top: 4px;
+  border-radius: 4px;
+}
+
+.input {
+  @include default;
+  //border-bottom: 1px solid #acacac !important;
+  color: black;
+}
+
+.disabled {
+  @include default;
+  //border-bottom: 1px solid #acacac !important;
+  color: #acacac;
+}
+
+::placeholder {
+  // color: #b1aaaa;
+  color: #707070;
+
+}
+
+.warning {
+  color: red;
+  text-align: left;
+  font-size: 14px;
+  margin: 10px 0 !important;
+}
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  font-family: $fontFamily;
+  display: flex;
+  font-size: 14px;
+  line-height: 17px;
+  color: $labelColor;
+}
+
+.requiredStar {
+  color: red;
+  margin-left: 3px;
+}
+
+.container {
+  align-items: baseline;
+  display: flex;
+  width: 95% !important;
+  flex-grow: 1;
+  // margin-bottom: 60px !important;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2%;
+  word-break: initial;
+}
+.floatRight {
+  float: right;
+}
+
+.minLength {
+  margin-right: 10px;
+  color: #7f7c7c;
+  padding-right: 10px;
+  border-right: 1px solid;
+}

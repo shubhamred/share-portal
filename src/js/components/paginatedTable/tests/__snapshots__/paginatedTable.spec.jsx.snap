@@ -1,0 +1,178 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/CustomPaginationActionsTable Renders with Props 1`] = `
+<ContextProvider
+  value={
+    Object {
+      "history": Object {
+        "listen": [MockFunction] {
+          "calls": Array [
+            Array [
+              [Function],
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        },
+        "location": Object {},
+        "push": [MockFunction],
+      },
+      "location": Object {},
+      "match": Object {
+        "isExact": false,
+        "params": Object {},
+        "path": "/",
+        "url": "/",
+      },
+      "staticContext": undefined,
+    }
+  }
+>
+  <ContextProvider
+    value={
+      Object {
+        "listen": [MockFunction] {
+          "calls": Array [
+            Array [
+              [Function],
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        },
+        "location": Object {},
+        "push": [MockFunction],
+      }
+    }
+  >
+    <CustomPaginationActionsTable
+      checkedOptions={Array []}
+      columns={
+        Array [
+          "Column 1",
+          "Column 2",
+        ]
+      }
+      dataTableType="deals"
+      fetchNextData={[MockFunction]}
+      handleCheckBoxValue={[Function]}
+      handleClearDate={[Function]}
+      handleClearStatus={[Function]}
+      isPaginationRequired={true}
+      onTableHeadClick={[Function]}
+      page={0}
+      rowNames={
+        Array [
+          "column1",
+          "column2",
+        ]
+      }
+      rows={
+        Array [
+          Object {
+            "column1": "dummy 1",
+          },
+          Object {
+            "column2": "dummy 2",
+          },
+        ]
+      }
+      rowsPerPage={10}
+      selectedFromDate={Array []}
+      setPage={[MockFunction]}
+      setRowsPerPage={[MockFunction]}
+      statusOptions={Array []}
+      totalCount={10}
+    />
+  </ContextProvider>
+</ContextProvider>
+`;
+
+exports[`components/CustomPaginationActionsTable match's snapshot 1`] = `
+<ContextProvider
+  value={
+    Object {
+      "history": Object {
+        "listen": [MockFunction] {
+          "calls": Array [
+            Array [
+              [Function],
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        },
+        "location": Object {},
+        "push": [MockFunction],
+      },
+      "location": Object {},
+      "match": Object {
+        "isExact": false,
+        "params": Object {},
+        "path": "/",
+        "url": "/",
+      },
+      "staticContext": undefined,
+    }
+  }
+>
+  <ContextProvider
+    value={
+      Object {
+        "listen": [MockFunction] {
+          "calls": Array [
+            Array [
+              [Function],
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        },
+        "location": Object {},
+        "push": [MockFunction],
+      }
+    }
+  >
+    <CustomPaginationActionsTable
+      checkedOptions={Array []}
+      columns={Array []}
+      dataTableType=""
+      fetchNextData={[Function]}
+      handleCheckBoxValue={[Function]}
+      handleClearDate={[Function]}
+      handleClearStatus={[Function]}
+      isPaginationRequired={true}
+      onTableHeadClick={[Function]}
+      page={0}
+      rowNames={Array []}
+      rows={
+        Array [
+          Object {},
+        ]
+      }
+      rowsPerPage={5}
+      selectedFromDate={Array []}
+      setPage={[Function]}
+      setRowsPerPage={[Function]}
+      statusOptions={Array []}
+      totalCount={0}
+    />
+  </ContextProvider>
+</ContextProvider>
+`;

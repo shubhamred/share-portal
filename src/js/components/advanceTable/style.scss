@@ -1,0 +1,42 @@
+.tableRowHover:hover {
+  background: #f0f2f480;
+  cursor: pointer;
+}
+
+.tableRowHover {
+  color: #212529 !important;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 600;
+}
+
+.noDataText {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+.noDataTextDiv{
+  width: 100%;
+  border: 1px solid #E2E8EE;
+  border-top: none;
+}
+
+.tableHead {
+  background: rgba(240, 242, 244, 0.5);
+  // box-shadow: inset -1px 0px 0px rgba(198, 209, 221, 0.5);
+  box-shadow: none;
+}
+
+.tableHead th, .tableBody td{
+  border: 1px solid #E2E8EE;
+}  
+
+.pagination{
+  border: 1px solid #E2E8EE;
+  border-top: none;
+}
+
+.tableBody td{
+  padding: 14px;
+}

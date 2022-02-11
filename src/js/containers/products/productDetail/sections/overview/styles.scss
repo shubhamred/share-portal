@@ -1,0 +1,35 @@
+.sectionHeading {
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.sectionText {
+}
+
+.updatedTime {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.updatedTime time {
+  margin-left: 10px;
+}
+
+.w100 {
+  width: 100%;
+}
+
+
+.fieldItem {
+  margin-bottom: 15px !important;
+}
+
+.fieldLabel {
+  margin: 15px 0 0;
+  font-size: 0.9rem !important;
+}
+
+.mb10 {
+  margin-bottom: 10px !important;
+}

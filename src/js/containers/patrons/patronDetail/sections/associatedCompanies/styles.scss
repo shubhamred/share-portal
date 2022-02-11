@@ -1,0 +1,27 @@
+.accMainHeading {
+  margin: 0;
+}
+
+.fieldContainer {
+  margin-bottom: 15px;
+}
+
+.accSubHeading {
+  margin: 0 0 0 10%;
+  font-weight: bold;
+  //color: rgba(33, 37, 25, 0.6);
+}
+
+.accSubHeading span{
+  margin-left: 15px;
+  color: rgba(33, 37, 25, 0.6);
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btnContainer button {
+  margin: 0 10px;
+}

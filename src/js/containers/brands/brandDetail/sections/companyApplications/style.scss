@@ -1,0 +1,71 @@
+.listItemPadding {
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+  border: 1px solid #f2f2f2;
+  margin-bottom: 20px !important;
+  box-shadow: 2px 3px 6px 1px rgba(164, 164, 164, 0.2);
+  border-radius: 4px;
+}
+
+.listItemKey {
+  color: rgba(33, 37, 41, 1);
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.listItemValue {
+  color: rgba(33, 37, 25, 0.7);
+  font-size: 16px;
+  line-height: 16px;
+  margin: 0 15px 0 15px;
+}
+
+.listItemHeading {
+  color: rgba(33, 37, 41, 1);
+  font-size: 16px;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+
+.listItemStatus {
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 20px;
+  border-radius: 4px;
+}
+.listItemStatus .green {
+  background: #219653;
+}
+
+.listItemStatus .yellow {
+  background: #f2c94c;
+}
+
+.listItemSubHeading {
+  font-size: 12px;
+  color: rgba(33, 37, 25, 0.6);
+  opacity: 0.8;
+  line-height: 16px;
+  margin-left: 30px;
+}
+
+.listSubContainer {
+  display: flex;
+  align-items: center;
+}
+
+.listItemContainer{
+  padding: 8px 15px!important;
+  padding-bottom: 10px;
+}
+
+.listItemContainerBorder{
+  border-bottom: 1px solid !important;
+}
+
+.createDealBtn{
+  height: fit-content;
+  border:1px solid #1518af !important;
+  color: #1518af !important;
+  padding: 10px 20px !important;
+}

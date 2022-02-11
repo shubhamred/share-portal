@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Autocomplete Component Renders default options 1`] = `
+<WithStyles(ForwardRef(Grid))
+  container={true}
+>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Autocomplete))
+      className="wrapper autoCompleteComponent"
+      classes={
+        Object {
+          "inputRoot": "inputHeight",
+          "root": "inputBorder",
+        }
+      }
+      clearOnBlur={true}
+      disabled={false}
+      freeSolo={false}
+      getOptionLabel={[Function]}
+      getOptionSelected={[Function]}
+      inputValue=""
+      onChange={[Function]}
+      onInputChange={[Function]}
+      options={Array []}
+      renderInput={[Function]}
+      value={null}
+    />
+  </WithStyles(ForwardRef(Grid))>
+</WithStyles(ForwardRef(Grid))>
+`;

@@ -1,0 +1,42 @@
+@import "src/js/theme/variables";
+
+.form {
+  margin: 0 auto;
+  width: 100%;
+}
+.formLabelStyle {
+  margin-top: 30px !important;
+}
+.inviteForm {
+  padding: 15px;
+}
+.headerStyle {
+  font-size: 25px !important;
+  line-height: 24px !important;
+  font-weight: Bold !important;
+  font-family: $fontFamily !important;
+  letter-spacing: 0;
+  color: #164363;
+  opacity: 1;
+}
+
+.buttonStyle{
+  justify-content: flex-end;
+  padding: 7% 0 3%;
+  text-align: right;
+}
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0 16px;
+  font-weight: 400;
+  font-family: $fontFamily;
+  display: flex;
+  font-size: 14px;
+  line-height: 17px;
+  color: #164363;
+}
+
+.childDivWidth > div{
+  width: 100% !important;
+}

@@ -1,0 +1,28 @@
+@import "src/js/theme/variables";
+
+.editorContainer {
+  border: 1px solid  #164363;
+}
+.container {
+  align-items: baseline;
+  display: flex;
+  flex-grow: 1;
+  width: 90% !important;
+}
+
+.requiredStar {
+  color: red;
+  margin-left: 3px;
+}
+
+.label {
+  text-align: left;
+  word-break: break-all;
+  padding: 4px 0;
+  font-weight: 400;
+  font-family: $fontFamily;
+  display: flex;
+  font-size: 14px;
+  line-height: 17px;
+  color: $labelColor;
+}

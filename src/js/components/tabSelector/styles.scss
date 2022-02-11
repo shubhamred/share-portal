@@ -1,0 +1,22 @@
+@import 'src/js/theme/variables';
+.selectedTab {
+  text-align: left;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+font-family: $fontFamily;
+letter-spacing: 0;
+color: #4754D6 !important;
+opacity: 1;
+border-bottom: 3px solid #4754D6 !important;
+}
+.normalTab {
+    text-align: left;
+    font-size: 14px;
+    line-height: 17px;
+    font-family: $fontFamily;
+letter-spacing: 0;
+color: #647C91 !important;
+opacity: 1;
+border-bottom: 3px solid white !important
+}
